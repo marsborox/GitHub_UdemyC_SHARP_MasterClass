@@ -1,0 +1,14 @@
+H:\C#\udemy\section7 collections\11 Stacks and Queues\11 Stacks and Queues\bin\Debug\net8.0\11 Stacks and Queues.exe
+H:\C#\udemy\section7 collections\11 Stacks and Queues\11 Stacks and Queues\bin\Debug\net8.0\11 Stacks and Queues.deps.json
+H:\C#\udemy\section7 collections\11 Stacks and Queues\11 Stacks and Queues\bin\Debug\net8.0\11 Stacks and Queues.runtimeconfig.json
+H:\C#\udemy\section7 collections\11 Stacks and Queues\11 Stacks and Queues\bin\Debug\net8.0\11 Stacks and Queues.dll
+H:\C#\udemy\section7 collections\11 Stacks and Queues\11 Stacks and Queues\bin\Debug\net8.0\11 Stacks and Queues.pdb
+H:\C#\udemy\section7 collections\11 Stacks and Queues\11 Stacks and Queues\obj\Debug\net8.0\11 Stacks and Queues.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy\section7 collections\11 Stacks and Queues\11 Stacks and Queues\obj\Debug\net8.0\11 Stacks and Queues.AssemblyInfoInputs.cache
+H:\C#\udemy\section7 collections\11 Stacks and Queues\11 Stacks and Queues\obj\Debug\net8.0\11 Stacks and Queues.AssemblyInfo.cs
+H:\C#\udemy\section7 collections\11 Stacks and Queues\11 Stacks and Queues\obj\Debug\net8.0\11 Stacks and Queues.csproj.CoreCompileInputs.cache
+H:\C#\udemy\section7 collections\11 Stacks and Queues\11 Stacks and Queues\obj\Debug\net8.0\11 Stacks and Queues.dll
+H:\C#\udemy\section7 collections\11 Stacks and Queues\11 Stacks and Queues\obj\Debug\net8.0\refint\11 Stacks and Queues.dll
+H:\C#\udemy\section7 collections\11 Stacks and Queues\11 Stacks and Queues\obj\Debug\net8.0\11 Stacks and Queues.pdb
+H:\C#\udemy\section7 collections\11 Stacks and Queues\11 Stacks and Queues\obj\Debug\net8.0\11 Stacks and Queues.genruntimeconfig.cache
+H:\C#\udemy\section7 collections\11 Stacks and Queues\11 Stacks and Queues\obj\Debug\net8.0\ref\11 Stacks and Queues.dll

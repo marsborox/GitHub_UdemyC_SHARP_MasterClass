@@ -1,0 +1,14 @@
+H:\C#\udemy\section3\Input catch operators\Input catch operators\bin\Debug\net8.0\Input catch operators.exe
+H:\C#\udemy\section3\Input catch operators\Input catch operators\bin\Debug\net8.0\Input catch operators.deps.json
+H:\C#\udemy\section3\Input catch operators\Input catch operators\bin\Debug\net8.0\Input catch operators.runtimeconfig.json
+H:\C#\udemy\section3\Input catch operators\Input catch operators\bin\Debug\net8.0\Input catch operators.dll
+H:\C#\udemy\section3\Input catch operators\Input catch operators\bin\Debug\net8.0\Input catch operators.pdb
+H:\C#\udemy\section3\Input catch operators\Input catch operators\obj\Debug\net8.0\Input catch operators.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy\section3\Input catch operators\Input catch operators\obj\Debug\net8.0\Input catch operators.AssemblyInfoInputs.cache
+H:\C#\udemy\section3\Input catch operators\Input catch operators\obj\Debug\net8.0\Input catch operators.AssemblyInfo.cs
+H:\C#\udemy\section3\Input catch operators\Input catch operators\obj\Debug\net8.0\Input catch operators.csproj.CoreCompileInputs.cache
+H:\C#\udemy\section3\Input catch operators\Input catch operators\obj\Debug\net8.0\Input catch operators.dll
+H:\C#\udemy\section3\Input catch operators\Input catch operators\obj\Debug\net8.0\refint\Input catch operators.dll
+H:\C#\udemy\section3\Input catch operators\Input catch operators\obj\Debug\net8.0\Input catch operators.pdb
+H:\C#\udemy\section3\Input catch operators\Input catch operators\obj\Debug\net8.0\Input catch operators.genruntimeconfig.cache
+H:\C#\udemy\section3\Input catch operators\Input catch operators\obj\Debug\net8.0\ref\Input catch operators.dll

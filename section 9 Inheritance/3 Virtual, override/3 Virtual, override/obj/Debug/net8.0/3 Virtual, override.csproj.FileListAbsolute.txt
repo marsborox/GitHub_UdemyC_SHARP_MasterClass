@@ -1,0 +1,14 @@
+H:\C#\udemy\section 9 Inheritance\3 Virtual, override\3 Virtual, override\bin\Debug\net8.0\3 Virtual, override.exe
+H:\C#\udemy\section 9 Inheritance\3 Virtual, override\3 Virtual, override\bin\Debug\net8.0\3 Virtual, override.deps.json
+H:\C#\udemy\section 9 Inheritance\3 Virtual, override\3 Virtual, override\bin\Debug\net8.0\3 Virtual, override.runtimeconfig.json
+H:\C#\udemy\section 9 Inheritance\3 Virtual, override\3 Virtual, override\bin\Debug\net8.0\3 Virtual, override.dll
+H:\C#\udemy\section 9 Inheritance\3 Virtual, override\3 Virtual, override\bin\Debug\net8.0\3 Virtual, override.pdb
+H:\C#\udemy\section 9 Inheritance\3 Virtual, override\3 Virtual, override\obj\Debug\net8.0\3 Virtual, override.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy\section 9 Inheritance\3 Virtual, override\3 Virtual, override\obj\Debug\net8.0\3 Virtual, override.AssemblyInfoInputs.cache
+H:\C#\udemy\section 9 Inheritance\3 Virtual, override\3 Virtual, override\obj\Debug\net8.0\3 Virtual, override.AssemblyInfo.cs
+H:\C#\udemy\section 9 Inheritance\3 Virtual, override\3 Virtual, override\obj\Debug\net8.0\3 Virtual, override.csproj.CoreCompileInputs.cache
+H:\C#\udemy\section 9 Inheritance\3 Virtual, override\3 Virtual, override\obj\Debug\net8.0\3 Virtual, override.dll
+H:\C#\udemy\section 9 Inheritance\3 Virtual, override\3 Virtual, override\obj\Debug\net8.0\refint\3 Virtual, override.dll
+H:\C#\udemy\section 9 Inheritance\3 Virtual, override\3 Virtual, override\obj\Debug\net8.0\3 Virtual, override.pdb
+H:\C#\udemy\section 9 Inheritance\3 Virtual, override\3 Virtual, override\obj\Debug\net8.0\3 Virtual, override.genruntimeconfig.cache
+H:\C#\udemy\section 9 Inheritance\3 Virtual, override\3 Virtual, override\obj\Debug\net8.0\ref\3 Virtual, override.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\C#\\udemy\\section5 Loops\\2 DoWhile Loop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBBDCA05-90A8-4C39-ADAA-04817053DB5C}|DoWhile Loop\\DoWhile Loop.csproj|h:\\c#\\udemy\\section5 loops\\2 dowhile loop\\dowhile loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBBDCA05-90A8-4C39-ADAA-04817053DB5C}|DoWhile Loop\\DoWhile Loop.csproj|solutionrelative:dowhile loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\C#\\udemy\\section5 Loops\\2 DoWhile Loop\\DoWhile Loop\\Program.cs",
+              "RelativeDocumentMoniker": "DoWhile Loop\\Program.cs",
+              "ToolTip": "H:\\C#\\udemy\\section5 Loops\\2 DoWhile Loop\\DoWhile Loop\\Program.cs",
+              "RelativeToolTip": "DoWhile Loop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T20:24:38.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

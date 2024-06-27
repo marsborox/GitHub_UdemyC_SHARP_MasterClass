@@ -1,0 +1,14 @@
+H:\C#\udemy\section7 collections\11 2 Queues\11 2 Queues\bin\Debug\net8.0\11 2 Queues.exe
+H:\C#\udemy\section7 collections\11 2 Queues\11 2 Queues\bin\Debug\net8.0\11 2 Queues.deps.json
+H:\C#\udemy\section7 collections\11 2 Queues\11 2 Queues\bin\Debug\net8.0\11 2 Queues.runtimeconfig.json
+H:\C#\udemy\section7 collections\11 2 Queues\11 2 Queues\bin\Debug\net8.0\11 2 Queues.dll
+H:\C#\udemy\section7 collections\11 2 Queues\11 2 Queues\bin\Debug\net8.0\11 2 Queues.pdb
+H:\C#\udemy\section7 collections\11 2 Queues\11 2 Queues\obj\Debug\net8.0\11 2 Queues.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy\section7 collections\11 2 Queues\11 2 Queues\obj\Debug\net8.0\11 2 Queues.AssemblyInfoInputs.cache
+H:\C#\udemy\section7 collections\11 2 Queues\11 2 Queues\obj\Debug\net8.0\11 2 Queues.AssemblyInfo.cs
+H:\C#\udemy\section7 collections\11 2 Queues\11 2 Queues\obj\Debug\net8.0\11 2 Queues.csproj.CoreCompileInputs.cache
+H:\C#\udemy\section7 collections\11 2 Queues\11 2 Queues\obj\Debug\net8.0\11 2 Queues.dll
+H:\C#\udemy\section7 collections\11 2 Queues\11 2 Queues\obj\Debug\net8.0\refint\11 2 Queues.dll
+H:\C#\udemy\section7 collections\11 2 Queues\11 2 Queues\obj\Debug\net8.0\11 2 Queues.pdb
+H:\C#\udemy\section7 collections\11 2 Queues\11 2 Queues\obj\Debug\net8.0\11 2 Queues.genruntimeconfig.cache
+H:\C#\udemy\section7 collections\11 2 Queues\11 2 Queues\obj\Debug\net8.0\ref\11 2 Queues.dll

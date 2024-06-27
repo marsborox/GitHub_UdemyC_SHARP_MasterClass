@@ -1,0 +1,14 @@
+H:\C#\udemy\section 9 Inheritance\4 some other stuff\4 some other stuff\obj\Debug\net8.0\4 some other stuff.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy\section 9 Inheritance\4 some other stuff\4 some other stuff\obj\Debug\net8.0\4 some other stuff.AssemblyInfoInputs.cache
+H:\C#\udemy\section 9 Inheritance\4 some other stuff\4 some other stuff\obj\Debug\net8.0\4 some other stuff.AssemblyInfo.cs
+H:\C#\udemy\section 9 Inheritance\4 some other stuff\4 some other stuff\obj\Debug\net8.0\4 some other stuff.csproj.CoreCompileInputs.cache
+H:\C#\udemy\section 9 Inheritance\4 some other stuff\4 some other stuff\bin\Debug\net8.0\4 some other stuff.exe
+H:\C#\udemy\section 9 Inheritance\4 some other stuff\4 some other stuff\bin\Debug\net8.0\4 some other stuff.deps.json
+H:\C#\udemy\section 9 Inheritance\4 some other stuff\4 some other stuff\bin\Debug\net8.0\4 some other stuff.runtimeconfig.json
+H:\C#\udemy\section 9 Inheritance\4 some other stuff\4 some other stuff\bin\Debug\net8.0\4 some other stuff.dll
+H:\C#\udemy\section 9 Inheritance\4 some other stuff\4 some other stuff\bin\Debug\net8.0\4 some other stuff.pdb
+H:\C#\udemy\section 9 Inheritance\4 some other stuff\4 some other stuff\obj\Debug\net8.0\4 some other stuff.dll
+H:\C#\udemy\section 9 Inheritance\4 some other stuff\4 some other stuff\obj\Debug\net8.0\refint\4 some other stuff.dll
+H:\C#\udemy\section 9 Inheritance\4 some other stuff\4 some other stuff\obj\Debug\net8.0\4 some other stuff.pdb
+H:\C#\udemy\section 9 Inheritance\4 some other stuff\4 some other stuff\obj\Debug\net8.0\4 some other stuff.genruntimeconfig.cache
+H:\C#\udemy\section 9 Inheritance\4 some other stuff\4 some other stuff\obj\Debug\net8.0\ref\4 some other stuff.dll

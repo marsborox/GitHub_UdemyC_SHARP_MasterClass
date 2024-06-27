@@ -1,0 +1,14 @@
+H:\C#\udemy\section4 Descisions\IFS Login Challenge\IFS Login Challenge\bin\Debug\net8.0\IFS Login Challenge.exe
+H:\C#\udemy\section4 Descisions\IFS Login Challenge\IFS Login Challenge\bin\Debug\net8.0\IFS Login Challenge.deps.json
+H:\C#\udemy\section4 Descisions\IFS Login Challenge\IFS Login Challenge\bin\Debug\net8.0\IFS Login Challenge.runtimeconfig.json
+H:\C#\udemy\section4 Descisions\IFS Login Challenge\IFS Login Challenge\bin\Debug\net8.0\IFS Login Challenge.dll
+H:\C#\udemy\section4 Descisions\IFS Login Challenge\IFS Login Challenge\bin\Debug\net8.0\IFS Login Challenge.pdb
+H:\C#\udemy\section4 Descisions\IFS Login Challenge\IFS Login Challenge\obj\Debug\net8.0\IFS Login Challenge.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy\section4 Descisions\IFS Login Challenge\IFS Login Challenge\obj\Debug\net8.0\IFS Login Challenge.AssemblyInfoInputs.cache
+H:\C#\udemy\section4 Descisions\IFS Login Challenge\IFS Login Challenge\obj\Debug\net8.0\IFS Login Challenge.AssemblyInfo.cs
+H:\C#\udemy\section4 Descisions\IFS Login Challenge\IFS Login Challenge\obj\Debug\net8.0\IFS Login Challenge.csproj.CoreCompileInputs.cache
+H:\C#\udemy\section4 Descisions\IFS Login Challenge\IFS Login Challenge\obj\Debug\net8.0\IFS Login Challenge.dll
+H:\C#\udemy\section4 Descisions\IFS Login Challenge\IFS Login Challenge\obj\Debug\net8.0\refint\IFS Login Challenge.dll
+H:\C#\udemy\section4 Descisions\IFS Login Challenge\IFS Login Challenge\obj\Debug\net8.0\IFS Login Challenge.pdb
+H:\C#\udemy\section4 Descisions\IFS Login Challenge\IFS Login Challenge\obj\Debug\net8.0\IFS Login Challenge.genruntimeconfig.cache
+H:\C#\udemy\section4 Descisions\IFS Login Challenge\IFS Login Challenge\obj\Debug\net8.0\ref\IFS Login Challenge.dll

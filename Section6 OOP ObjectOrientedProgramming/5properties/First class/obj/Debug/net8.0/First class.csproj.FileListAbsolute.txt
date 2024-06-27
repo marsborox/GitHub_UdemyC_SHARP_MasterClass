@@ -1,0 +1,70 @@
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\First class\First class\bin\Debug\net8.0\First class.exe
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\First class\First class\bin\Debug\net8.0\First class.deps.json
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\First class\First class\bin\Debug\net8.0\First class.runtimeconfig.json
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\First class\First class\bin\Debug\net8.0\First class.dll
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\First class\First class\bin\Debug\net8.0\First class.pdb
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\First class\First class\obj\Debug\net8.0\First class.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\First class\First class\obj\Debug\net8.0\First class.AssemblyInfoInputs.cache
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\First class\First class\obj\Debug\net8.0\First class.AssemblyInfo.cs
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\First class\First class\obj\Debug\net8.0\First class.csproj.CoreCompileInputs.cache
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\First class\First class\obj\Debug\net8.0\First class.dll
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\First class\First class\obj\Debug\net8.0\refint\First class.dll
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\First class\First class\obj\Debug\net8.0\First class.pdb
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\First class\First class\obj\Debug\net8.0\First class.genruntimeconfig.cache
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\First class\First class\obj\Debug\net8.0\ref\First class.dll
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\continue class pt2\First class\bin\Debug\net8.0\First class.exe
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\continue class pt2\First class\bin\Debug\net8.0\First class.deps.json
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\continue class pt2\First class\bin\Debug\net8.0\First class.runtimeconfig.json
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\continue class pt2\First class\bin\Debug\net8.0\First class.dll
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\continue class pt2\First class\bin\Debug\net8.0\First class.pdb
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\continue class pt2\First class\obj\Debug\net8.0\First class.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\continue class pt2\First class\obj\Debug\net8.0\First class.AssemblyInfoInputs.cache
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\continue class pt2\First class\obj\Debug\net8.0\First class.AssemblyInfo.cs
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\continue class pt2\First class\obj\Debug\net8.0\First class.csproj.CoreCompileInputs.cache
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\continue class pt2\First class\obj\Debug\net8.0\First class.dll
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\continue class pt2\First class\obj\Debug\net8.0\refint\First class.dll
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\continue class pt2\First class\obj\Debug\net8.0\First class.pdb
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\continue class pt2\First class\obj\Debug\net8.0\First class.genruntimeconfig.cache
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\continue class pt2\First class\obj\Debug\net8.0\ref\First class.dll
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\multiple constructors\First class\bin\Debug\net8.0\First class.exe
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\multiple constructors\First class\bin\Debug\net8.0\First class.deps.json
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\multiple constructors\First class\bin\Debug\net8.0\First class.runtimeconfig.json
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\multiple constructors\First class\bin\Debug\net8.0\First class.dll
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\multiple constructors\First class\bin\Debug\net8.0\First class.pdb
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\multiple constructors\First class\obj\Debug\net8.0\First class.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\multiple constructors\First class\obj\Debug\net8.0\First class.AssemblyInfoInputs.cache
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\multiple constructors\First class\obj\Debug\net8.0\First class.AssemblyInfo.cs
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\multiple constructors\First class\obj\Debug\net8.0\First class.csproj.CoreCompileInputs.cache
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\multiple constructors\First class\obj\Debug\net8.0\First class.dll
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\multiple constructors\First class\obj\Debug\net8.0\refint\First class.dll
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\multiple constructors\First class\obj\Debug\net8.0\First class.pdb
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\multiple constructors\First class\obj\Debug\net8.0\First class.genruntimeconfig.cache
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\multiple constructors\First class\obj\Debug\net8.0\ref\First class.dll
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\Setters Getters\First class\bin\Debug\net8.0\First class.exe
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\Setters Getters\First class\bin\Debug\net8.0\First class.deps.json
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\Setters Getters\First class\bin\Debug\net8.0\First class.runtimeconfig.json
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\Setters Getters\First class\bin\Debug\net8.0\First class.dll
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\Setters Getters\First class\bin\Debug\net8.0\First class.pdb
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\Setters Getters\First class\obj\Debug\net8.0\First class.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\Setters Getters\First class\obj\Debug\net8.0\First class.AssemblyInfoInputs.cache
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\Setters Getters\First class\obj\Debug\net8.0\First class.AssemblyInfo.cs
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\Setters Getters\First class\obj\Debug\net8.0\First class.csproj.CoreCompileInputs.cache
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\Setters Getters\First class\obj\Debug\net8.0\First class.dll
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\Setters Getters\First class\obj\Debug\net8.0\refint\First class.dll
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\Setters Getters\First class\obj\Debug\net8.0\First class.pdb
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\Setters Getters\First class\obj\Debug\net8.0\First class.genruntimeconfig.cache
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\Setters Getters\First class\obj\Debug\net8.0\ref\First class.dll
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\properties\First class\bin\Debug\net8.0\First class.exe
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\properties\First class\bin\Debug\net8.0\First class.deps.json
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\properties\First class\bin\Debug\net8.0\First class.runtimeconfig.json
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\properties\First class\bin\Debug\net8.0\First class.dll
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\properties\First class\bin\Debug\net8.0\First class.pdb
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\properties\First class\obj\Debug\net8.0\First class.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\properties\First class\obj\Debug\net8.0\First class.AssemblyInfoInputs.cache
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\properties\First class\obj\Debug\net8.0\First class.AssemblyInfo.cs
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\properties\First class\obj\Debug\net8.0\First class.csproj.CoreCompileInputs.cache
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\properties\First class\obj\Debug\net8.0\First class.dll
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\properties\First class\obj\Debug\net8.0\refint\First class.dll
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\properties\First class\obj\Debug\net8.0\First class.pdb
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\properties\First class\obj\Debug\net8.0\First class.genruntimeconfig.cache
+H:\C#\udemy\Section 6 OOP ObjectOrientedProgramming\properties\First class\obj\Debug\net8.0\ref\First class.dll

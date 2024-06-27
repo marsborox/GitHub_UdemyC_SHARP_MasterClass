@@ -1,0 +1,14 @@
+H:\C#\udemy c#\18 Linq\02. Linq With List\02. Linq With List\bin\Debug\net8.0\02. Linq With List.exe
+H:\C#\udemy c#\18 Linq\02. Linq With List\02. Linq With List\bin\Debug\net8.0\02. Linq With List.deps.json
+H:\C#\udemy c#\18 Linq\02. Linq With List\02. Linq With List\bin\Debug\net8.0\02. Linq With List.runtimeconfig.json
+H:\C#\udemy c#\18 Linq\02. Linq With List\02. Linq With List\bin\Debug\net8.0\02. Linq With List.dll
+H:\C#\udemy c#\18 Linq\02. Linq With List\02. Linq With List\bin\Debug\net8.0\02. Linq With List.pdb
+H:\C#\udemy c#\18 Linq\02. Linq With List\02. Linq With List\obj\Debug\net8.0\02. Linq With List.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy c#\18 Linq\02. Linq With List\02. Linq With List\obj\Debug\net8.0\02. Linq With List.AssemblyInfoInputs.cache
+H:\C#\udemy c#\18 Linq\02. Linq With List\02. Linq With List\obj\Debug\net8.0\02. Linq With List.AssemblyInfo.cs
+H:\C#\udemy c#\18 Linq\02. Linq With List\02. Linq With List\obj\Debug\net8.0\02. Linq With List.csproj.CoreCompileInputs.cache
+H:\C#\udemy c#\18 Linq\02. Linq With List\02. Linq With List\obj\Debug\net8.0\02. Linq With List.dll
+H:\C#\udemy c#\18 Linq\02. Linq With List\02. Linq With List\obj\Debug\net8.0\refint\02. Linq With List.dll
+H:\C#\udemy c#\18 Linq\02. Linq With List\02. Linq With List\obj\Debug\net8.0\02. Linq With List.pdb
+H:\C#\udemy c#\18 Linq\02. Linq With List\02. Linq With List\obj\Debug\net8.0\02. Linq With List.genruntimeconfig.cache
+H:\C#\udemy c#\18 Linq\02. Linq With List\02. Linq With List\obj\Debug\net8.0\ref\02. Linq With List.dll

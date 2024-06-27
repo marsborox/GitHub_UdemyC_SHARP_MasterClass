@@ -1,0 +1,14 @@
+H:\C#\udemy\section7 collections\5 Jagged array\5 Jagged array\bin\Debug\net8.0\5 Jagged array.exe
+H:\C#\udemy\section7 collections\5 Jagged array\5 Jagged array\bin\Debug\net8.0\5 Jagged array.deps.json
+H:\C#\udemy\section7 collections\5 Jagged array\5 Jagged array\bin\Debug\net8.0\5 Jagged array.runtimeconfig.json
+H:\C#\udemy\section7 collections\5 Jagged array\5 Jagged array\bin\Debug\net8.0\5 Jagged array.dll
+H:\C#\udemy\section7 collections\5 Jagged array\5 Jagged array\bin\Debug\net8.0\5 Jagged array.pdb
+H:\C#\udemy\section7 collections\5 Jagged array\5 Jagged array\obj\Debug\net8.0\5 Jagged array.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy\section7 collections\5 Jagged array\5 Jagged array\obj\Debug\net8.0\5 Jagged array.AssemblyInfoInputs.cache
+H:\C#\udemy\section7 collections\5 Jagged array\5 Jagged array\obj\Debug\net8.0\5 Jagged array.AssemblyInfo.cs
+H:\C#\udemy\section7 collections\5 Jagged array\5 Jagged array\obj\Debug\net8.0\5 Jagged array.csproj.CoreCompileInputs.cache
+H:\C#\udemy\section7 collections\5 Jagged array\5 Jagged array\obj\Debug\net8.0\5 Jagged array.dll
+H:\C#\udemy\section7 collections\5 Jagged array\5 Jagged array\obj\Debug\net8.0\refint\5 Jagged array.dll
+H:\C#\udemy\section7 collections\5 Jagged array\5 Jagged array\obj\Debug\net8.0\5 Jagged array.pdb
+H:\C#\udemy\section7 collections\5 Jagged array\5 Jagged array\obj\Debug\net8.0\5 Jagged array.genruntimeconfig.cache
+H:\C#\udemy\section7 collections\5 Jagged array\5 Jagged array\obj\Debug\net8.0\ref\5 Jagged array.dll

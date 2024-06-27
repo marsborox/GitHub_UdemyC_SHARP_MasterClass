@@ -1,0 +1,14 @@
+H:\C#\udemy\section 9 Inheritance\2 first inheritance\2 first inheritance\obj\Debug\net8.0\2 first inheritance.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy\section 9 Inheritance\2 first inheritance\2 first inheritance\obj\Debug\net8.0\2 first inheritance.AssemblyInfoInputs.cache
+H:\C#\udemy\section 9 Inheritance\2 first inheritance\2 first inheritance\obj\Debug\net8.0\2 first inheritance.AssemblyInfo.cs
+H:\C#\udemy\section 9 Inheritance\2 first inheritance\2 first inheritance\obj\Debug\net8.0\2 first inheritance.csproj.CoreCompileInputs.cache
+H:\C#\udemy\section 9 Inheritance\2 first inheritance\2 first inheritance\bin\Debug\net8.0\2 first inheritance.exe
+H:\C#\udemy\section 9 Inheritance\2 first inheritance\2 first inheritance\bin\Debug\net8.0\2 first inheritance.deps.json
+H:\C#\udemy\section 9 Inheritance\2 first inheritance\2 first inheritance\bin\Debug\net8.0\2 first inheritance.runtimeconfig.json
+H:\C#\udemy\section 9 Inheritance\2 first inheritance\2 first inheritance\bin\Debug\net8.0\2 first inheritance.dll
+H:\C#\udemy\section 9 Inheritance\2 first inheritance\2 first inheritance\bin\Debug\net8.0\2 first inheritance.pdb
+H:\C#\udemy\section 9 Inheritance\2 first inheritance\2 first inheritance\obj\Debug\net8.0\2 first inheritance.dll
+H:\C#\udemy\section 9 Inheritance\2 first inheritance\2 first inheritance\obj\Debug\net8.0\refint\2 first inheritance.dll
+H:\C#\udemy\section 9 Inheritance\2 first inheritance\2 first inheritance\obj\Debug\net8.0\2 first inheritance.pdb
+H:\C#\udemy\section 9 Inheritance\2 first inheritance\2 first inheritance\obj\Debug\net8.0\2 first inheritance.genruntimeconfig.cache
+H:\C#\udemy\section 9 Inheritance\2 first inheritance\2 first inheritance\obj\Debug\net8.0\ref\2 first inheritance.dll

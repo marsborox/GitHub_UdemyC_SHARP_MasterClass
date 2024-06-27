@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\C#\\udemy\\section5 Loops\\4 Break and continue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93CCA391-F4E4-45AD-B85D-AF74F98EFBC0}|Break and continue\\Break and continue.csproj|h:\\c#\\udemy\\section5 loops\\4 break and continue\\break and continue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93CCA391-F4E4-45AD-B85D-AF74F98EFBC0}|Break and continue\\Break and continue.csproj|solutionrelative:break and continue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\C#\\udemy\\section5 Loops\\4 Break and continue\\Break and continue\\Program.cs",
+              "RelativeDocumentMoniker": "Break and continue\\Program.cs",
+              "ToolTip": "H:\\C#\\udemy\\section5 Loops\\4 Break and continue\\Break and continue\\Program.cs",
+              "RelativeToolTip": "Break and continue\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:26:53.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\C#\\udemy\\section 9 Inheritance\\12 IEnumerable exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D865756D-FF4A-47F4-ABFE-5A3190DD072E}|12 IEnumerable exercise\\12 IEnumerable exercise.csproj|h:\\c#\\udemy\\section 9 inheritance\\12 ienumerable exercise\\12 ienumerable exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D865756D-FF4A-47F4-ABFE-5A3190DD072E}|12 IEnumerable exercise\\12 IEnumerable exercise.csproj|solutionrelative:12 ienumerable exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D865756D-FF4A-47F4-ABFE-5A3190DD072E}|12 IEnumerable exercise\\12 IEnumerable exercise.csproj|h:\\c#\\udemy\\section 9 inheritance\\12 ienumerable exercise\\12 ienumerable exercise\\obj\\debug\\net8.0\\12 ienumerable exercise.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D865756D-FF4A-47F4-ABFE-5A3190DD072E}|12 IEnumerable exercise\\12 IEnumerable exercise.csproj|solutionrelative:12 ienumerable exercise\\obj\\debug\\net8.0\\12 ienumerable exercise.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "12 IEnumerable exercise.GlobalUsings.g.cs",
+              "DocumentMoniker": "H:\\C#\\udemy\\section 9 Inheritance\\12 IEnumerable exercise\\12 IEnumerable exercise\\obj\\Debug\\net8.0\\12 IEnumerable exercise.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "12 IEnumerable exercise\\obj\\Debug\\net8.0\\12 IEnumerable exercise.GlobalUsings.g.cs",
+              "ToolTip": "H:\\C#\\udemy\\section 9 Inheritance\\12 IEnumerable exercise\\12 IEnumerable exercise\\obj\\Debug\\net8.0\\12 IEnumerable exercise.GlobalUsings.g.cs",
+              "RelativeToolTip": "12 IEnumerable exercise\\obj\\Debug\\net8.0\\12 IEnumerable exercise.GlobalUsings.g.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:07:20.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\C#\\udemy\\section 9 Inheritance\\12 IEnumerable exercise\\12 IEnumerable exercise\\Program.cs",
+              "RelativeDocumentMoniker": "12 IEnumerable exercise\\Program.cs",
+              "ToolTip": "H:\\C#\\udemy\\section 9 Inheritance\\12 IEnumerable exercise\\12 IEnumerable exercise\\Program.cs",
+              "RelativeToolTip": "12 IEnumerable exercise\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T15:06:55.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

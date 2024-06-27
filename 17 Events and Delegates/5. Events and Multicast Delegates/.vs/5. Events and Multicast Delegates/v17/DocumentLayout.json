@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\C#\\udemy c#\\17 Events and Delegates\\5. Events and Multicast Delegates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15D082A8-2176-4B92-9C1B-4FF682894FF2}|5. Events and Multicast Delegates\\5. Events and Multicast Delegates.csproj|h:\\c#\\udemy c#\\17 events and delegates\\5. events and multicast delegates\\5. events and multicast delegates\\renderingengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D082A8-2176-4B92-9C1B-4FF682894FF2}|5. Events and Multicast Delegates\\5. Events and Multicast Delegates.csproj|solutionrelative:5. events and multicast delegates\\renderingengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D082A8-2176-4B92-9C1B-4FF682894FF2}|5. Events and Multicast Delegates\\5. Events and Multicast Delegates.csproj|h:\\c#\\udemy c#\\17 events and delegates\\5. events and multicast delegates\\5. events and multicast delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D082A8-2176-4B92-9C1B-4FF682894FF2}|5. Events and Multicast Delegates\\5. Events and Multicast Delegates.csproj|solutionrelative:5. events and multicast delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D082A8-2176-4B92-9C1B-4FF682894FF2}|5. Events and Multicast Delegates\\5. Events and Multicast Delegates.csproj|h:\\c#\\udemy c#\\17 events and delegates\\5. events and multicast delegates\\5. events and multicast delegates\\audiosystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D082A8-2176-4B92-9C1B-4FF682894FF2}|5. Events and Multicast Delegates\\5. Events and Multicast Delegates.csproj|solutionrelative:5. events and multicast delegates\\audiosystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D082A8-2176-4B92-9C1B-4FF682894FF2}|5. Events and Multicast Delegates\\5. Events and Multicast Delegates.csproj|h:\\c#\\udemy c#\\17 events and delegates\\5. events and multicast delegates\\5. events and multicast delegates\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D082A8-2176-4B92-9C1B-4FF682894FF2}|5. Events and Multicast Delegates\\5. Events and Multicast Delegates.csproj|solutionrelative:5. events and multicast delegates\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D082A8-2176-4B92-9C1B-4FF682894FF2}|5. Events and Multicast Delegates\\5. Events and Multicast Delegates.csproj|h:\\c#\\udemy c#\\17 events and delegates\\5. events and multicast delegates\\5. events and multicast delegates\\gameeventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15D082A8-2176-4B92-9C1B-4FF682894FF2}|5. Events and Multicast Delegates\\5. Events and Multicast Delegates.csproj|solutionrelative:5. events and multicast delegates\\gameeventmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameEventManager.cs",
+              "DocumentMoniker": "H:\\C#\\udemy c#\\17 Events and Delegates\\5. Events and Multicast Delegates\\5. Events and Multicast Delegates\\GameEventManager.cs",
+              "RelativeDocumentMoniker": "5. Events and Multicast Delegates\\GameEventManager.cs",
+              "ToolTip": "H:\\C#\\udemy c#\\17 Events and Delegates\\5. Events and Multicast Delegates\\5. Events and Multicast Delegates\\GameEventManager.cs",
+              "RelativeToolTip": "5. Events and Multicast Delegates\\GameEventManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T20:10:09.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "H:\\C#\\udemy c#\\17 Events and Delegates\\5. Events and Multicast Delegates\\5. Events and Multicast Delegates\\Player.cs",
+              "RelativeDocumentMoniker": "5. Events and Multicast Delegates\\Player.cs",
+              "ToolTip": "H:\\C#\\udemy c#\\17 Events and Delegates\\5. Events and Multicast Delegates\\5. Events and Multicast Delegates\\Player.cs",
+              "RelativeToolTip": "5. Events and Multicast Delegates\\Player.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:43:55.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AudioSystem.cs",
+              "DocumentMoniker": "H:\\C#\\udemy c#\\17 Events and Delegates\\5. Events and Multicast Delegates\\5. Events and Multicast Delegates\\AudioSystem.cs",
+              "RelativeDocumentMoniker": "5. Events and Multicast Delegates\\AudioSystem.cs",
+              "ToolTip": "H:\\C#\\udemy c#\\17 Events and Delegates\\5. Events and Multicast Delegates\\5. Events and Multicast Delegates\\AudioSystem.cs",
+              "RelativeToolTip": "5. Events and Multicast Delegates\\AudioSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:44:15.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RenderingEngine.cs",
+              "DocumentMoniker": "H:\\C#\\udemy c#\\17 Events and Delegates\\5. Events and Multicast Delegates\\5. Events and Multicast Delegates\\RenderingEngine.cs",
+              "RelativeDocumentMoniker": "5. Events and Multicast Delegates\\RenderingEngine.cs",
+              "ToolTip": "H:\\C#\\udemy c#\\17 Events and Delegates\\5. Events and Multicast Delegates\\5. Events and Multicast Delegates\\RenderingEngine.cs",
+              "RelativeToolTip": "5. Events and Multicast Delegates\\RenderingEngine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:44:39.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\C#\\udemy c#\\17 Events and Delegates\\5. Events and Multicast Delegates\\5. Events and Multicast Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "5. Events and Multicast Delegates\\Program.cs",
+              "ToolTip": "H:\\C#\\udemy c#\\17 Events and Delegates\\5. Events and Multicast Delegates\\5. Events and Multicast Delegates\\Program.cs",
+              "RelativeToolTip": "5. Events and Multicast Delegates\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T19:39:42.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+H:\C#\udemy\section7 collections\4 tic tac toe checker\4 tic tac toe checker\bin\Debug\net8.0\4 tic tac toe checker.exe
+H:\C#\udemy\section7 collections\4 tic tac toe checker\4 tic tac toe checker\bin\Debug\net8.0\4 tic tac toe checker.deps.json
+H:\C#\udemy\section7 collections\4 tic tac toe checker\4 tic tac toe checker\bin\Debug\net8.0\4 tic tac toe checker.runtimeconfig.json
+H:\C#\udemy\section7 collections\4 tic tac toe checker\4 tic tac toe checker\bin\Debug\net8.0\4 tic tac toe checker.dll
+H:\C#\udemy\section7 collections\4 tic tac toe checker\4 tic tac toe checker\bin\Debug\net8.0\4 tic tac toe checker.pdb
+H:\C#\udemy\section7 collections\4 tic tac toe checker\4 tic tac toe checker\obj\Debug\net8.0\4 tic tac toe checker.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy\section7 collections\4 tic tac toe checker\4 tic tac toe checker\obj\Debug\net8.0\4 tic tac toe checker.AssemblyInfoInputs.cache
+H:\C#\udemy\section7 collections\4 tic tac toe checker\4 tic tac toe checker\obj\Debug\net8.0\4 tic tac toe checker.AssemblyInfo.cs
+H:\C#\udemy\section7 collections\4 tic tac toe checker\4 tic tac toe checker\obj\Debug\net8.0\4 tic tac toe checker.csproj.CoreCompileInputs.cache
+H:\C#\udemy\section7 collections\4 tic tac toe checker\4 tic tac toe checker\obj\Debug\net8.0\4 tic tac toe checker.dll
+H:\C#\udemy\section7 collections\4 tic tac toe checker\4 tic tac toe checker\obj\Debug\net8.0\refint\4 tic tac toe checker.dll
+H:\C#\udemy\section7 collections\4 tic tac toe checker\4 tic tac toe checker\obj\Debug\net8.0\4 tic tac toe checker.pdb
+H:\C#\udemy\section7 collections\4 tic tac toe checker\4 tic tac toe checker\obj\Debug\net8.0\4 tic tac toe checker.genruntimeconfig.cache
+H:\C#\udemy\section7 collections\4 tic tac toe checker\4 tic tac toe checker\obj\Debug\net8.0\ref\4 tic tac toe checker.dll

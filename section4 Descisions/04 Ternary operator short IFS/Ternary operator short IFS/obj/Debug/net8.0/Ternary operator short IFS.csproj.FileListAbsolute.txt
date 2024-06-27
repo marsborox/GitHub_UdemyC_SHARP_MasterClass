@@ -1,0 +1,14 @@
+H:\C#\udemy\section4 Descisions\Ternary operator short IFS\Ternary operator short IFS\bin\Debug\net8.0\Ternary operator short IFS.exe
+H:\C#\udemy\section4 Descisions\Ternary operator short IFS\Ternary operator short IFS\bin\Debug\net8.0\Ternary operator short IFS.deps.json
+H:\C#\udemy\section4 Descisions\Ternary operator short IFS\Ternary operator short IFS\bin\Debug\net8.0\Ternary operator short IFS.runtimeconfig.json
+H:\C#\udemy\section4 Descisions\Ternary operator short IFS\Ternary operator short IFS\bin\Debug\net8.0\Ternary operator short IFS.dll
+H:\C#\udemy\section4 Descisions\Ternary operator short IFS\Ternary operator short IFS\bin\Debug\net8.0\Ternary operator short IFS.pdb
+H:\C#\udemy\section4 Descisions\Ternary operator short IFS\Ternary operator short IFS\obj\Debug\net8.0\Ternary operator short IFS.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy\section4 Descisions\Ternary operator short IFS\Ternary operator short IFS\obj\Debug\net8.0\Ternary operator short IFS.AssemblyInfoInputs.cache
+H:\C#\udemy\section4 Descisions\Ternary operator short IFS\Ternary operator short IFS\obj\Debug\net8.0\Ternary operator short IFS.AssemblyInfo.cs
+H:\C#\udemy\section4 Descisions\Ternary operator short IFS\Ternary operator short IFS\obj\Debug\net8.0\Ternary operator short IFS.csproj.CoreCompileInputs.cache
+H:\C#\udemy\section4 Descisions\Ternary operator short IFS\Ternary operator short IFS\obj\Debug\net8.0\Ternary operator short IFS.dll
+H:\C#\udemy\section4 Descisions\Ternary operator short IFS\Ternary operator short IFS\obj\Debug\net8.0\refint\Ternary operator short IFS.dll
+H:\C#\udemy\section4 Descisions\Ternary operator short IFS\Ternary operator short IFS\obj\Debug\net8.0\Ternary operator short IFS.pdb
+H:\C#\udemy\section4 Descisions\Ternary operator short IFS\Ternary operator short IFS\obj\Debug\net8.0\Ternary operator short IFS.genruntimeconfig.cache
+H:\C#\udemy\section4 Descisions\Ternary operator short IFS\Ternary operator short IFS\obj\Debug\net8.0\ref\Ternary operator short IFS.dll

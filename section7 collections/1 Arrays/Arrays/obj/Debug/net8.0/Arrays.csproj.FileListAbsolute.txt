@@ -1,0 +1,28 @@
+H:\C#\udemy\section7 collections\Arrays\Arrays\bin\Debug\net8.0\Arrays.exe
+H:\C#\udemy\section7 collections\Arrays\Arrays\bin\Debug\net8.0\Arrays.deps.json
+H:\C#\udemy\section7 collections\Arrays\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+H:\C#\udemy\section7 collections\Arrays\Arrays\bin\Debug\net8.0\Arrays.dll
+H:\C#\udemy\section7 collections\Arrays\Arrays\bin\Debug\net8.0\Arrays.pdb
+H:\C#\udemy\section7 collections\Arrays\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy\section7 collections\Arrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+H:\C#\udemy\section7 collections\Arrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+H:\C#\udemy\section7 collections\Arrays\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+H:\C#\udemy\section7 collections\Arrays\Arrays\obj\Debug\net8.0\Arrays.dll
+H:\C#\udemy\section7 collections\Arrays\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+H:\C#\udemy\section7 collections\Arrays\Arrays\obj\Debug\net8.0\Arrays.pdb
+H:\C#\udemy\section7 collections\Arrays\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+H:\C#\udemy\section7 collections\Arrays\Arrays\obj\Debug\net8.0\ref\Arrays.dll
+H:\C#\udemy\section7 collections\1 Arrays\Arrays\bin\Debug\net8.0\Arrays.exe
+H:\C#\udemy\section7 collections\1 Arrays\Arrays\bin\Debug\net8.0\Arrays.deps.json
+H:\C#\udemy\section7 collections\1 Arrays\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+H:\C#\udemy\section7 collections\1 Arrays\Arrays\bin\Debug\net8.0\Arrays.dll
+H:\C#\udemy\section7 collections\1 Arrays\Arrays\bin\Debug\net8.0\Arrays.pdb
+H:\C#\udemy\section7 collections\1 Arrays\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy\section7 collections\1 Arrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+H:\C#\udemy\section7 collections\1 Arrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+H:\C#\udemy\section7 collections\1 Arrays\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+H:\C#\udemy\section7 collections\1 Arrays\Arrays\obj\Debug\net8.0\Arrays.dll
+H:\C#\udemy\section7 collections\1 Arrays\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+H:\C#\udemy\section7 collections\1 Arrays\Arrays\obj\Debug\net8.0\Arrays.pdb
+H:\C#\udemy\section7 collections\1 Arrays\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+H:\C#\udemy\section7 collections\1 Arrays\Arrays\obj\Debug\net8.0\ref\Arrays.dll

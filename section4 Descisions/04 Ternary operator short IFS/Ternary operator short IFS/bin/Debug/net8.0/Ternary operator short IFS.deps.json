@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ternary operator short IFS/1.0.0": {
+        "runtime": {
+          "Ternary operator short IFS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ternary operator short IFS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

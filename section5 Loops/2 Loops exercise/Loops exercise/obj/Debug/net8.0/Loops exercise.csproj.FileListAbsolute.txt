@@ -1,0 +1,14 @@
+H:\C#\udemy\section5 Loops\Loops exercise\Loops exercise\obj\Debug\net8.0\Loops exercise.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy\section5 Loops\Loops exercise\Loops exercise\obj\Debug\net8.0\Loops exercise.AssemblyInfoInputs.cache
+H:\C#\udemy\section5 Loops\Loops exercise\Loops exercise\obj\Debug\net8.0\Loops exercise.AssemblyInfo.cs
+H:\C#\udemy\section5 Loops\Loops exercise\Loops exercise\obj\Debug\net8.0\Loops exercise.csproj.CoreCompileInputs.cache
+H:\C#\udemy\section5 Loops\Loops exercise\Loops exercise\bin\Debug\net8.0\Loops exercise.exe
+H:\C#\udemy\section5 Loops\Loops exercise\Loops exercise\bin\Debug\net8.0\Loops exercise.deps.json
+H:\C#\udemy\section5 Loops\Loops exercise\Loops exercise\bin\Debug\net8.0\Loops exercise.runtimeconfig.json
+H:\C#\udemy\section5 Loops\Loops exercise\Loops exercise\bin\Debug\net8.0\Loops exercise.dll
+H:\C#\udemy\section5 Loops\Loops exercise\Loops exercise\bin\Debug\net8.0\Loops exercise.pdb
+H:\C#\udemy\section5 Loops\Loops exercise\Loops exercise\obj\Debug\net8.0\Loops exercise.dll
+H:\C#\udemy\section5 Loops\Loops exercise\Loops exercise\obj\Debug\net8.0\refint\Loops exercise.dll
+H:\C#\udemy\section5 Loops\Loops exercise\Loops exercise\obj\Debug\net8.0\Loops exercise.pdb
+H:\C#\udemy\section5 Loops\Loops exercise\Loops exercise\obj\Debug\net8.0\Loops exercise.genruntimeconfig.cache
+H:\C#\udemy\section5 Loops\Loops exercise\Loops exercise\obj\Debug\net8.0\ref\Loops exercise.dll

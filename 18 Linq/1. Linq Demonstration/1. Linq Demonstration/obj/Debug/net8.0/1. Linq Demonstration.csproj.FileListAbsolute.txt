@@ -1,0 +1,14 @@
+H:\C#\udemy c#\18 Linq\1. Linq Demonstration\1. Linq Demonstration\bin\Debug\net8.0\1. Linq Demonstration.exe
+H:\C#\udemy c#\18 Linq\1. Linq Demonstration\1. Linq Demonstration\bin\Debug\net8.0\1. Linq Demonstration.deps.json
+H:\C#\udemy c#\18 Linq\1. Linq Demonstration\1. Linq Demonstration\bin\Debug\net8.0\1. Linq Demonstration.runtimeconfig.json
+H:\C#\udemy c#\18 Linq\1. Linq Demonstration\1. Linq Demonstration\bin\Debug\net8.0\1. Linq Demonstration.dll
+H:\C#\udemy c#\18 Linq\1. Linq Demonstration\1. Linq Demonstration\bin\Debug\net8.0\1. Linq Demonstration.pdb
+H:\C#\udemy c#\18 Linq\1. Linq Demonstration\1. Linq Demonstration\obj\Debug\net8.0\1. Linq Demonstration.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy c#\18 Linq\1. Linq Demonstration\1. Linq Demonstration\obj\Debug\net8.0\1. Linq Demonstration.AssemblyInfoInputs.cache
+H:\C#\udemy c#\18 Linq\1. Linq Demonstration\1. Linq Demonstration\obj\Debug\net8.0\1. Linq Demonstration.AssemblyInfo.cs
+H:\C#\udemy c#\18 Linq\1. Linq Demonstration\1. Linq Demonstration\obj\Debug\net8.0\1. Linq Demonstration.csproj.CoreCompileInputs.cache
+H:\C#\udemy c#\18 Linq\1. Linq Demonstration\1. Linq Demonstration\obj\Debug\net8.0\1. Linq Demonstration.dll
+H:\C#\udemy c#\18 Linq\1. Linq Demonstration\1. Linq Demonstration\obj\Debug\net8.0\refint\1. Linq Demonstration.dll
+H:\C#\udemy c#\18 Linq\1. Linq Demonstration\1. Linq Demonstration\obj\Debug\net8.0\1. Linq Demonstration.pdb
+H:\C#\udemy c#\18 Linq\1. Linq Demonstration\1. Linq Demonstration\obj\Debug\net8.0\1. Linq Demonstration.genruntimeconfig.cache
+H:\C#\udemy c#\18 Linq\1. Linq Demonstration\1. Linq Demonstration\obj\Debug\net8.0\ref\1. Linq Demonstration.dll

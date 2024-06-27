@@ -1,0 +1,14 @@
+H:\C#\udemy\section3\Operators\Operators\bin\Debug\net8.0\Operators.exe
+H:\C#\udemy\section3\Operators\Operators\bin\Debug\net8.0\Operators.deps.json
+H:\C#\udemy\section3\Operators\Operators\bin\Debug\net8.0\Operators.runtimeconfig.json
+H:\C#\udemy\section3\Operators\Operators\bin\Debug\net8.0\Operators.dll
+H:\C#\udemy\section3\Operators\Operators\bin\Debug\net8.0\Operators.pdb
+H:\C#\udemy\section3\Operators\Operators\obj\Debug\net8.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy\section3\Operators\Operators\obj\Debug\net8.0\Operators.AssemblyInfoInputs.cache
+H:\C#\udemy\section3\Operators\Operators\obj\Debug\net8.0\Operators.AssemblyInfo.cs
+H:\C#\udemy\section3\Operators\Operators\obj\Debug\net8.0\Operators.csproj.CoreCompileInputs.cache
+H:\C#\udemy\section3\Operators\Operators\obj\Debug\net8.0\Operators.dll
+H:\C#\udemy\section3\Operators\Operators\obj\Debug\net8.0\refint\Operators.dll
+H:\C#\udemy\section3\Operators\Operators\obj\Debug\net8.0\Operators.pdb
+H:\C#\udemy\section3\Operators\Operators\obj\Debug\net8.0\Operators.genruntimeconfig.cache
+H:\C#\udemy\section3\Operators\Operators\obj\Debug\net8.0\ref\Operators.dll

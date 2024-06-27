@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\C#\\udemy\\section 9 Inheritance\\2 first inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64B8C422-AF22-4DAE-BB28-7C1ACAA6E30B}|2 first inheritance\\2 first inheritance.csproj|h:\\c#\\udemy\\section 9 inheritance\\2 first inheritance\\2 first inheritance\\electricaldevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B8C422-AF22-4DAE-BB28-7C1ACAA6E30B}|2 first inheritance\\2 first inheritance.csproj|solutionrelative:2 first inheritance\\electricaldevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B8C422-AF22-4DAE-BB28-7C1ACAA6E30B}|2 first inheritance\\2 first inheritance.csproj|h:\\c#\\udemy\\section 9 inheritance\\2 first inheritance\\2 first inheritance\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B8C422-AF22-4DAE-BB28-7C1ACAA6E30B}|2 first inheritance\\2 first inheritance.csproj|solutionrelative:2 first inheritance\\radio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B8C422-AF22-4DAE-BB28-7C1ACAA6E30B}|2 first inheritance\\2 first inheritance.csproj|h:\\c#\\udemy\\section 9 inheritance\\2 first inheritance\\2 first inheritance\\tv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B8C422-AF22-4DAE-BB28-7C1ACAA6E30B}|2 first inheritance\\2 first inheritance.csproj|solutionrelative:2 first inheritance\\tv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64B8C422-AF22-4DAE-BB28-7C1ACAA6E30B}|2 first inheritance\\2 first inheritance.csproj|h:\\c#\\udemy\\section 9 inheritance\\2 first inheritance\\2 first inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64B8C422-AF22-4DAE-BB28-7C1ACAA6E30B}|2 first inheritance\\2 first inheritance.csproj|solutionrelative:2 first inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElectricalDevice.cs",
+              "DocumentMoniker": "H:\\C#\\udemy\\section 9 Inheritance\\2 first inheritance\\2 first inheritance\\ElectricalDevice.cs",
+              "RelativeDocumentMoniker": "2 first inheritance\\ElectricalDevice.cs",
+              "ToolTip": "H:\\C#\\udemy\\section 9 Inheritance\\2 first inheritance\\2 first inheritance\\ElectricalDevice.cs",
+              "RelativeToolTip": "2 first inheritance\\ElectricalDevice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T19:16:50.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Radio.cs",
+              "DocumentMoniker": "H:\\C#\\udemy\\section 9 Inheritance\\2 first inheritance\\2 first inheritance\\Radio.cs",
+              "RelativeDocumentMoniker": "2 first inheritance\\Radio.cs",
+              "ToolTip": "H:\\C#\\udemy\\section 9 Inheritance\\2 first inheritance\\2 first inheritance\\Radio.cs",
+              "RelativeToolTip": "2 first inheritance\\Radio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T18:44:52.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TV.cs",
+              "DocumentMoniker": "H:\\C#\\udemy\\section 9 Inheritance\\2 first inheritance\\2 first inheritance\\TV.cs",
+              "RelativeDocumentMoniker": "2 first inheritance\\TV.cs",
+              "ToolTip": "H:\\C#\\udemy\\section 9 Inheritance\\2 first inheritance\\2 first inheritance\\TV.cs",
+              "RelativeToolTip": "2 first inheritance\\TV.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T19:01:17.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\C#\\udemy\\section 9 Inheritance\\2 first inheritance\\2 first inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "2 first inheritance\\Program.cs",
+              "ToolTip": "H:\\C#\\udemy\\section 9 Inheritance\\2 first inheritance\\2 first inheritance\\Program.cs",
+              "RelativeToolTip": "2 first inheritance\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T18:40:15.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

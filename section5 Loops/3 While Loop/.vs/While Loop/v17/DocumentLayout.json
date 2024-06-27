@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\C#\\udemy\\section5 Loops\\3 While Loop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98AD0F96-2741-4982-9C80-BC2582CF3D3B}|While Loop\\While Loop.csproj|h:\\c#\\udemy\\section5 loops\\3 while loop\\while loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AD0F96-2741-4982-9C80-BC2582CF3D3B}|While Loop\\While Loop.csproj|solutionrelative:while loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\C#\\udemy\\section5 Loops\\3 While Loop\\While Loop\\Program.cs",
+              "RelativeDocumentMoniker": "While Loop\\Program.cs",
+              "ToolTip": "H:\\C#\\udemy\\section5 Loops\\3 While Loop\\While Loop\\Program.cs",
+              "RelativeToolTip": "While Loop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T18:15:51.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

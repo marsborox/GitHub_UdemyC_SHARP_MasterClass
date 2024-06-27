@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\C#\\udemy\\section 9 Inheritance\\4 some other stuff\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27A44362-DF67-4D05-970E-E5D5BD1900BF}|4 some other stuff\\4 some other stuff.csproj|h:\\c#\\udemy\\section 9 inheritance\\4 some other stuff\\4 some other stuff\\imagepost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A44362-DF67-4D05-970E-E5D5BD1900BF}|4 some other stuff\\4 some other stuff.csproj|solutionrelative:4 some other stuff\\imagepost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A44362-DF67-4D05-970E-E5D5BD1900BF}|4 some other stuff\\4 some other stuff.csproj|h:\\c#\\udemy\\section 9 inheritance\\4 some other stuff\\4 some other stuff\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A44362-DF67-4D05-970E-E5D5BD1900BF}|4 some other stuff\\4 some other stuff.csproj|solutionrelative:4 some other stuff\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A44362-DF67-4D05-970E-E5D5BD1900BF}|4 some other stuff\\4 some other stuff.csproj|h:\\c#\\udemy\\section 9 inheritance\\4 some other stuff\\4 some other stuff\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A44362-DF67-4D05-970E-E5D5BD1900BF}|4 some other stuff\\4 some other stuff.csproj|solutionrelative:4 some other stuff\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Imagepost.cs",
+              "DocumentMoniker": "H:\\C#\\udemy\\section 9 Inheritance\\4 some other stuff\\4 some other stuff\\Imagepost.cs",
+              "RelativeDocumentMoniker": "4 some other stuff\\Imagepost.cs",
+              "ToolTip": "H:\\C#\\udemy\\section 9 Inheritance\\4 some other stuff\\4 some other stuff\\Imagepost.cs",
+              "RelativeToolTip": "4 some other stuff\\Imagepost.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T19:34:02.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Post.cs",
+              "DocumentMoniker": "H:\\C#\\udemy\\section 9 Inheritance\\4 some other stuff\\4 some other stuff\\Post.cs",
+              "RelativeDocumentMoniker": "4 some other stuff\\Post.cs",
+              "ToolTip": "H:\\C#\\udemy\\section 9 Inheritance\\4 some other stuff\\4 some other stuff\\Post.cs",
+              "RelativeToolTip": "4 some other stuff\\Post.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T18:09:01.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\C#\\udemy\\section 9 Inheritance\\4 some other stuff\\4 some other stuff\\Program.cs",
+              "RelativeDocumentMoniker": "4 some other stuff\\Program.cs",
+              "ToolTip": "H:\\C#\\udemy\\section 9 Inheritance\\4 some other stuff\\4 some other stuff\\Program.cs",
+              "RelativeToolTip": "4 some other stuff\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T18:08:31.459Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

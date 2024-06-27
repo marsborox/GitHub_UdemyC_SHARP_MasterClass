@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\C#\\udemy c#\\17 Events and Delegates\\4 Lambda expressions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B31802-F16E-44D4-93A6-7A959A67781A}|2. Creating Own Delegates\\2. Creating Own Delegates.csproj|h:\\c#\\udemy c#\\17 events and delegates\\4 lambda expressions\\2. creating own delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B31802-F16E-44D4-93A6-7A959A67781A}|2. Creating Own Delegates\\2. Creating Own Delegates.csproj|solutionrelative:2. creating own delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7B31802-F16E-44D4-93A6-7A959A67781A}|2. Creating Own Delegates\\2. Creating Own Delegates.csproj|h:\\c#\\udemy c#\\17 events and delegates\\4 lambda expressions\\2. creating own delegates\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7B31802-F16E-44D4-93A6-7A959A67781A}|2. Creating Own Delegates\\2. Creating Own Delegates.csproj|solutionrelative:2. creating own delegates\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "H:\\C#\\udemy c#\\17 Events and Delegates\\4 Lambda expressions\\2. Creating Own Delegates\\Person.cs",
+              "RelativeDocumentMoniker": "2. Creating Own Delegates\\Person.cs",
+              "ToolTip": "H:\\C#\\udemy c#\\17 Events and Delegates\\4 Lambda expressions\\2. Creating Own Delegates\\Person.cs",
+              "RelativeToolTip": "2. Creating Own Delegates\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:37:17.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\C#\\udemy c#\\17 Events and Delegates\\4 Lambda expressions\\2. Creating Own Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "2. Creating Own Delegates\\Program.cs",
+              "ToolTip": "H:\\C#\\udemy c#\\17 Events and Delegates\\4 Lambda expressions\\2. Creating Own Delegates\\Program.cs",
+              "RelativeToolTip": "2. Creating Own Delegates\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:33:10.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+H:\C#\udemy\section 9 Inheritance\8 Own interfaces\8 Own interfaces\bin\Debug\net8.0\8 Own interfaces.exe
+H:\C#\udemy\section 9 Inheritance\8 Own interfaces\8 Own interfaces\bin\Debug\net8.0\8 Own interfaces.deps.json
+H:\C#\udemy\section 9 Inheritance\8 Own interfaces\8 Own interfaces\bin\Debug\net8.0\8 Own interfaces.runtimeconfig.json
+H:\C#\udemy\section 9 Inheritance\8 Own interfaces\8 Own interfaces\bin\Debug\net8.0\8 Own interfaces.dll
+H:\C#\udemy\section 9 Inheritance\8 Own interfaces\8 Own interfaces\bin\Debug\net8.0\8 Own interfaces.pdb
+H:\C#\udemy\section 9 Inheritance\8 Own interfaces\8 Own interfaces\obj\Debug\net8.0\8 Own interfaces.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy\section 9 Inheritance\8 Own interfaces\8 Own interfaces\obj\Debug\net8.0\8 Own interfaces.AssemblyInfoInputs.cache
+H:\C#\udemy\section 9 Inheritance\8 Own interfaces\8 Own interfaces\obj\Debug\net8.0\8 Own interfaces.AssemblyInfo.cs
+H:\C#\udemy\section 9 Inheritance\8 Own interfaces\8 Own interfaces\obj\Debug\net8.0\8 Own interfaces.csproj.CoreCompileInputs.cache
+H:\C#\udemy\section 9 Inheritance\8 Own interfaces\8 Own interfaces\obj\Debug\net8.0\8 Own interfaces.dll
+H:\C#\udemy\section 9 Inheritance\8 Own interfaces\8 Own interfaces\obj\Debug\net8.0\refint\8 Own interfaces.dll
+H:\C#\udemy\section 9 Inheritance\8 Own interfaces\8 Own interfaces\obj\Debug\net8.0\8 Own interfaces.pdb
+H:\C#\udemy\section 9 Inheritance\8 Own interfaces\8 Own interfaces\obj\Debug\net8.0\8 Own interfaces.genruntimeconfig.cache
+H:\C#\udemy\section 9 Inheritance\8 Own interfaces\8 Own interfaces\obj\Debug\net8.0\ref\8 Own interfaces.dll

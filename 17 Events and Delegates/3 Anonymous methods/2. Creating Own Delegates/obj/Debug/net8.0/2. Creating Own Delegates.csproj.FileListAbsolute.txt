@@ -1,0 +1,28 @@
+H:\C#\udemy c#\17 Events and Delegates\2. Creating Own Delegates\2. Creating Own Delegates\bin\Debug\net8.0\2. Creating Own Delegates.exe
+H:\C#\udemy c#\17 Events and Delegates\2. Creating Own Delegates\2. Creating Own Delegates\bin\Debug\net8.0\2. Creating Own Delegates.deps.json
+H:\C#\udemy c#\17 Events and Delegates\2. Creating Own Delegates\2. Creating Own Delegates\bin\Debug\net8.0\2. Creating Own Delegates.runtimeconfig.json
+H:\C#\udemy c#\17 Events and Delegates\2. Creating Own Delegates\2. Creating Own Delegates\bin\Debug\net8.0\2. Creating Own Delegates.dll
+H:\C#\udemy c#\17 Events and Delegates\2. Creating Own Delegates\2. Creating Own Delegates\bin\Debug\net8.0\2. Creating Own Delegates.pdb
+H:\C#\udemy c#\17 Events and Delegates\2. Creating Own Delegates\2. Creating Own Delegates\obj\Debug\net8.0\2. Creating Own Delegates.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy c#\17 Events and Delegates\2. Creating Own Delegates\2. Creating Own Delegates\obj\Debug\net8.0\2. Creating Own Delegates.AssemblyInfoInputs.cache
+H:\C#\udemy c#\17 Events and Delegates\2. Creating Own Delegates\2. Creating Own Delegates\obj\Debug\net8.0\2. Creating Own Delegates.AssemblyInfo.cs
+H:\C#\udemy c#\17 Events and Delegates\2. Creating Own Delegates\2. Creating Own Delegates\obj\Debug\net8.0\2. Creating Own Delegates.csproj.CoreCompileInputs.cache
+H:\C#\udemy c#\17 Events and Delegates\2. Creating Own Delegates\2. Creating Own Delegates\obj\Debug\net8.0\2. Creating Own Delegates.dll
+H:\C#\udemy c#\17 Events and Delegates\2. Creating Own Delegates\2. Creating Own Delegates\obj\Debug\net8.0\refint\2. Creating Own Delegates.dll
+H:\C#\udemy c#\17 Events and Delegates\2. Creating Own Delegates\2. Creating Own Delegates\obj\Debug\net8.0\2. Creating Own Delegates.pdb
+H:\C#\udemy c#\17 Events and Delegates\2. Creating Own Delegates\2. Creating Own Delegates\obj\Debug\net8.0\2. Creating Own Delegates.genruntimeconfig.cache
+H:\C#\udemy c#\17 Events and Delegates\2. Creating Own Delegates\2. Creating Own Delegates\obj\Debug\net8.0\ref\2. Creating Own Delegates.dll
+H:\C#\udemy c#\17 Events and Delegates\3 Anonymous methods\2. Creating Own Delegates\bin\Debug\net8.0\2. Creating Own Delegates.exe
+H:\C#\udemy c#\17 Events and Delegates\3 Anonymous methods\2. Creating Own Delegates\bin\Debug\net8.0\2. Creating Own Delegates.deps.json
+H:\C#\udemy c#\17 Events and Delegates\3 Anonymous methods\2. Creating Own Delegates\bin\Debug\net8.0\2. Creating Own Delegates.runtimeconfig.json
+H:\C#\udemy c#\17 Events and Delegates\3 Anonymous methods\2. Creating Own Delegates\bin\Debug\net8.0\2. Creating Own Delegates.dll
+H:\C#\udemy c#\17 Events and Delegates\3 Anonymous methods\2. Creating Own Delegates\bin\Debug\net8.0\2. Creating Own Delegates.pdb
+H:\C#\udemy c#\17 Events and Delegates\3 Anonymous methods\2. Creating Own Delegates\obj\Debug\net8.0\2. Creating Own Delegates.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy c#\17 Events and Delegates\3 Anonymous methods\2. Creating Own Delegates\obj\Debug\net8.0\2. Creating Own Delegates.AssemblyInfoInputs.cache
+H:\C#\udemy c#\17 Events and Delegates\3 Anonymous methods\2. Creating Own Delegates\obj\Debug\net8.0\2. Creating Own Delegates.AssemblyInfo.cs
+H:\C#\udemy c#\17 Events and Delegates\3 Anonymous methods\2. Creating Own Delegates\obj\Debug\net8.0\2. Creating Own Delegates.csproj.CoreCompileInputs.cache
+H:\C#\udemy c#\17 Events and Delegates\3 Anonymous methods\2. Creating Own Delegates\obj\Debug\net8.0\2. Creating Own Delegates.dll
+H:\C#\udemy c#\17 Events and Delegates\3 Anonymous methods\2. Creating Own Delegates\obj\Debug\net8.0\refint\2. Creating Own Delegates.dll
+H:\C#\udemy c#\17 Events and Delegates\3 Anonymous methods\2. Creating Own Delegates\obj\Debug\net8.0\2. Creating Own Delegates.pdb
+H:\C#\udemy c#\17 Events and Delegates\3 Anonymous methods\2. Creating Own Delegates\obj\Debug\net8.0\2. Creating Own Delegates.genruntimeconfig.cache
+H:\C#\udemy c#\17 Events and Delegates\3 Anonymous methods\2. Creating Own Delegates\obj\Debug\net8.0\ref\2. Creating Own Delegates.dll

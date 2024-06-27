@@ -1,0 +1,14 @@
+H:\C#\udemy c#\17 Events and Delegates\5. Events and Multicast Delegates\5. Events and Multicast Delegates\bin\Debug\net8.0\5. Events and Multicast Delegates.exe
+H:\C#\udemy c#\17 Events and Delegates\5. Events and Multicast Delegates\5. Events and Multicast Delegates\bin\Debug\net8.0\5. Events and Multicast Delegates.deps.json
+H:\C#\udemy c#\17 Events and Delegates\5. Events and Multicast Delegates\5. Events and Multicast Delegates\bin\Debug\net8.0\5. Events and Multicast Delegates.runtimeconfig.json
+H:\C#\udemy c#\17 Events and Delegates\5. Events and Multicast Delegates\5. Events and Multicast Delegates\bin\Debug\net8.0\5. Events and Multicast Delegates.dll
+H:\C#\udemy c#\17 Events and Delegates\5. Events and Multicast Delegates\5. Events and Multicast Delegates\bin\Debug\net8.0\5. Events and Multicast Delegates.pdb
+H:\C#\udemy c#\17 Events and Delegates\5. Events and Multicast Delegates\5. Events and Multicast Delegates\obj\Debug\net8.0\5. Events and Multicast Delegates.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy c#\17 Events and Delegates\5. Events and Multicast Delegates\5. Events and Multicast Delegates\obj\Debug\net8.0\5. Events and Multicast Delegates.AssemblyInfoInputs.cache
+H:\C#\udemy c#\17 Events and Delegates\5. Events and Multicast Delegates\5. Events and Multicast Delegates\obj\Debug\net8.0\5. Events and Multicast Delegates.AssemblyInfo.cs
+H:\C#\udemy c#\17 Events and Delegates\5. Events and Multicast Delegates\5. Events and Multicast Delegates\obj\Debug\net8.0\5. Events and Multicast Delegates.csproj.CoreCompileInputs.cache
+H:\C#\udemy c#\17 Events and Delegates\5. Events and Multicast Delegates\5. Events and Multicast Delegates\obj\Debug\net8.0\5. Events and Multicast Delegates.dll
+H:\C#\udemy c#\17 Events and Delegates\5. Events and Multicast Delegates\5. Events and Multicast Delegates\obj\Debug\net8.0\refint\5. Events and Multicast Delegates.dll
+H:\C#\udemy c#\17 Events and Delegates\5. Events and Multicast Delegates\5. Events and Multicast Delegates\obj\Debug\net8.0\5. Events and Multicast Delegates.pdb
+H:\C#\udemy c#\17 Events and Delegates\5. Events and Multicast Delegates\5. Events and Multicast Delegates\obj\Debug\net8.0\5. Events and Multicast Delegates.genruntimeconfig.cache
+H:\C#\udemy c#\17 Events and Delegates\5. Events and Multicast Delegates\5. Events and Multicast Delegates\obj\Debug\net8.0\ref\5. Events and Multicast Delegates.dll

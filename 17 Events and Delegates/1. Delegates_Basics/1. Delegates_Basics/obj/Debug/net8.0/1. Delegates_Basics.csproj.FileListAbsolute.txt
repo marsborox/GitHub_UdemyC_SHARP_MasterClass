@@ -1,0 +1,14 @@
+H:\C#\udemy c#\17 Events and Delegates\1. Delegates_Basics\1. Delegates_Basics\bin\Debug\net8.0\1. Delegates_Basics.exe
+H:\C#\udemy c#\17 Events and Delegates\1. Delegates_Basics\1. Delegates_Basics\bin\Debug\net8.0\1. Delegates_Basics.deps.json
+H:\C#\udemy c#\17 Events and Delegates\1. Delegates_Basics\1. Delegates_Basics\bin\Debug\net8.0\1. Delegates_Basics.runtimeconfig.json
+H:\C#\udemy c#\17 Events and Delegates\1. Delegates_Basics\1. Delegates_Basics\bin\Debug\net8.0\1. Delegates_Basics.dll
+H:\C#\udemy c#\17 Events and Delegates\1. Delegates_Basics\1. Delegates_Basics\bin\Debug\net8.0\1. Delegates_Basics.pdb
+H:\C#\udemy c#\17 Events and Delegates\1. Delegates_Basics\1. Delegates_Basics\obj\Debug\net8.0\1. Delegates_Basics.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy c#\17 Events and Delegates\1. Delegates_Basics\1. Delegates_Basics\obj\Debug\net8.0\1. Delegates_Basics.AssemblyInfoInputs.cache
+H:\C#\udemy c#\17 Events and Delegates\1. Delegates_Basics\1. Delegates_Basics\obj\Debug\net8.0\1. Delegates_Basics.AssemblyInfo.cs
+H:\C#\udemy c#\17 Events and Delegates\1. Delegates_Basics\1. Delegates_Basics\obj\Debug\net8.0\1. Delegates_Basics.csproj.CoreCompileInputs.cache
+H:\C#\udemy c#\17 Events and Delegates\1. Delegates_Basics\1. Delegates_Basics\obj\Debug\net8.0\1. Delegates_Basics.dll
+H:\C#\udemy c#\17 Events and Delegates\1. Delegates_Basics\1. Delegates_Basics\obj\Debug\net8.0\refint\1. Delegates_Basics.dll
+H:\C#\udemy c#\17 Events and Delegates\1. Delegates_Basics\1. Delegates_Basics\obj\Debug\net8.0\1. Delegates_Basics.pdb
+H:\C#\udemy c#\17 Events and Delegates\1. Delegates_Basics\1. Delegates_Basics\obj\Debug\net8.0\1. Delegates_Basics.genruntimeconfig.cache
+H:\C#\udemy c#\17 Events and Delegates\1. Delegates_Basics\1. Delegates_Basics\obj\Debug\net8.0\ref\1. Delegates_Basics.dll

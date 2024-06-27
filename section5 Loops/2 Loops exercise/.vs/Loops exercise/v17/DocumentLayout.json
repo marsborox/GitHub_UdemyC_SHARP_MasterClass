@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\C#\\udemy\\section5 Loops\\2 Loops exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70EE37C8-B1AF-4DF0-8D95-7607477933F6}|Loops exercise\\Loops exercise.csproj|h:\\c#\\udemy\\section5 loops\\2 loops exercise\\loops exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70EE37C8-B1AF-4DF0-8D95-7607477933F6}|Loops exercise\\Loops exercise.csproj|solutionrelative:loops exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\C#\\udemy\\section5 Loops\\2 Loops exercise\\Loops exercise\\Program.cs",
+              "RelativeDocumentMoniker": "Loops exercise\\Program.cs",
+              "ToolTip": "H:\\C#\\udemy\\section5 Loops\\2 Loops exercise\\Loops exercise\\Program.cs",
+              "RelativeToolTip": "Loops exercise\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T19:10:11.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

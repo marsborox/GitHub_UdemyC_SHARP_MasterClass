@@ -1,0 +1,20 @@
+H:\C#\udemy\Section 13 WPF\WpfApp02 Listbox\WpfApp02 Listbox\bin\Debug\net8.0-windows\WpfApp02 Listbox.exe
+H:\C#\udemy\Section 13 WPF\WpfApp02 Listbox\WpfApp02 Listbox\bin\Debug\net8.0-windows\WpfApp02 Listbox.deps.json
+H:\C#\udemy\Section 13 WPF\WpfApp02 Listbox\WpfApp02 Listbox\bin\Debug\net8.0-windows\WpfApp02 Listbox.runtimeconfig.json
+H:\C#\udemy\Section 13 WPF\WpfApp02 Listbox\WpfApp02 Listbox\bin\Debug\net8.0-windows\WpfApp02 Listbox.dll
+H:\C#\udemy\Section 13 WPF\WpfApp02 Listbox\WpfApp02 Listbox\bin\Debug\net8.0-windows\WpfApp02 Listbox.pdb
+H:\C#\udemy\Section 13 WPF\WpfApp02 Listbox\WpfApp02 Listbox\obj\Debug\net8.0-windows\MainWindow.g.cs
+H:\C#\udemy\Section 13 WPF\WpfApp02 Listbox\WpfApp02 Listbox\obj\Debug\net8.0-windows\App.g.cs
+H:\C#\udemy\Section 13 WPF\WpfApp02 Listbox\WpfApp02 Listbox\obj\Debug\net8.0-windows\WpfApp02 Listbox_MarkupCompile.cache
+H:\C#\udemy\Section 13 WPF\WpfApp02 Listbox\WpfApp02 Listbox\obj\Debug\net8.0-windows\WpfApp02 Listbox_MarkupCompile.lref
+H:\C#\udemy\Section 13 WPF\WpfApp02 Listbox\WpfApp02 Listbox\obj\Debug\net8.0-windows\MainWindow.baml
+H:\C#\udemy\Section 13 WPF\WpfApp02 Listbox\WpfApp02 Listbox\obj\Debug\net8.0-windows\WpfApp02 Listbox.g.resources
+H:\C#\udemy\Section 13 WPF\WpfApp02 Listbox\WpfApp02 Listbox\obj\Debug\net8.0-windows\WpfApp02 Listbox.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy\Section 13 WPF\WpfApp02 Listbox\WpfApp02 Listbox\obj\Debug\net8.0-windows\WpfApp02 Listbox.AssemblyInfoInputs.cache
+H:\C#\udemy\Section 13 WPF\WpfApp02 Listbox\WpfApp02 Listbox\obj\Debug\net8.0-windows\WpfApp02 Listbox.AssemblyInfo.cs
+H:\C#\udemy\Section 13 WPF\WpfApp02 Listbox\WpfApp02 Listbox\obj\Debug\net8.0-windows\WpfApp02 Listbox.csproj.CoreCompileInputs.cache
+H:\C#\udemy\Section 13 WPF\WpfApp02 Listbox\WpfApp02 Listbox\obj\Debug\net8.0-windows\WpfApp02 Listbox.dll
+H:\C#\udemy\Section 13 WPF\WpfApp02 Listbox\WpfApp02 Listbox\obj\Debug\net8.0-windows\refint\WpfApp02 Listbox.dll
+H:\C#\udemy\Section 13 WPF\WpfApp02 Listbox\WpfApp02 Listbox\obj\Debug\net8.0-windows\WpfApp02 Listbox.pdb
+H:\C#\udemy\Section 13 WPF\WpfApp02 Listbox\WpfApp02 Listbox\obj\Debug\net8.0-windows\WpfApp02 Listbox.genruntimeconfig.cache
+H:\C#\udemy\Section 13 WPF\WpfApp02 Listbox\WpfApp02 Listbox\obj\Debug\net8.0-windows\ref\WpfApp02 Listbox.dll

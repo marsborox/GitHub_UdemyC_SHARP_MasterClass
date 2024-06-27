@@ -1,0 +1,14 @@
+H:\C#\udemy\section5 Loops\break continue practice\break continue practice\bin\Debug\net8.0\break continue practice.exe
+H:\C#\udemy\section5 Loops\break continue practice\break continue practice\bin\Debug\net8.0\break continue practice.deps.json
+H:\C#\udemy\section5 Loops\break continue practice\break continue practice\bin\Debug\net8.0\break continue practice.runtimeconfig.json
+H:\C#\udemy\section5 Loops\break continue practice\break continue practice\bin\Debug\net8.0\break continue practice.dll
+H:\C#\udemy\section5 Loops\break continue practice\break continue practice\bin\Debug\net8.0\break continue practice.pdb
+H:\C#\udemy\section5 Loops\break continue practice\break continue practice\obj\Debug\net8.0\break continue practice.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\udemy\section5 Loops\break continue practice\break continue practice\obj\Debug\net8.0\break continue practice.AssemblyInfoInputs.cache
+H:\C#\udemy\section5 Loops\break continue practice\break continue practice\obj\Debug\net8.0\break continue practice.AssemblyInfo.cs
+H:\C#\udemy\section5 Loops\break continue practice\break continue practice\obj\Debug\net8.0\break continue practice.csproj.CoreCompileInputs.cache
+H:\C#\udemy\section5 Loops\break continue practice\break continue practice\obj\Debug\net8.0\break continue practice.dll
+H:\C#\udemy\section5 Loops\break continue practice\break continue practice\obj\Debug\net8.0\refint\break continue practice.dll
+H:\C#\udemy\section5 Loops\break continue practice\break continue practice\obj\Debug\net8.0\break continue practice.pdb
+H:\C#\udemy\section5 Loops\break continue practice\break continue practice\obj\Debug\net8.0\break continue practice.genruntimeconfig.cache
+H:\C#\udemy\section5 Loops\break continue practice\break continue practice\obj\Debug\net8.0\ref\break continue practice.dll

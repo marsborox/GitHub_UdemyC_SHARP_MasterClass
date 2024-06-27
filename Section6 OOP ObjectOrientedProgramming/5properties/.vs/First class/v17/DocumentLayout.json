@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\C#\\udemy\\Section6 OOP ObjectOrientedProgramming\\5properties\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2E9032-9FA6-4C9F-B4A4-49062109F2A5}|First class\\First class.csproj|h:\\c#\\udemy\\section6 oop objectorientedprogramming\\5properties\\first class\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F2E9032-9FA6-4C9F-B4A4-49062109F2A5}|First class\\First class.csproj|solutionrelative:first class\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F2E9032-9FA6-4C9F-B4A4-49062109F2A5}|First class\\First class.csproj|h:\\c#\\udemy\\section6 oop objectorientedprogramming\\5properties\\first class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F2E9032-9FA6-4C9F-B4A4-49062109F2A5}|First class\\First class.csproj|solutionrelative:first class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "H:\\C#\\udemy\\Section6 OOP ObjectOrientedProgramming\\5properties\\First class\\Car.cs",
+              "RelativeDocumentMoniker": "First class\\Car.cs",
+              "ToolTip": "H:\\C#\\udemy\\Section6 OOP ObjectOrientedProgramming\\5properties\\First class\\Car.cs",
+              "RelativeToolTip": "First class\\Car.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAADwvxcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T19:21:36.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\C#\\udemy\\Section6 OOP ObjectOrientedProgramming\\5properties\\First class\\Program.cs",
+              "RelativeDocumentMoniker": "First class\\Program.cs",
+              "ToolTip": "H:\\C#\\udemy\\Section6 OOP ObjectOrientedProgramming\\5properties\\First class\\Program.cs",
+              "RelativeToolTip": "First class\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T19:18:46.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

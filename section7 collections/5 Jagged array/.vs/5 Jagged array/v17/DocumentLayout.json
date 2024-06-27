@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\C#\\udemy\\section7 collections\\5 Jagged array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A71F9F9-84F5-4DE7-B50C-59C01C837326}|5 Jagged array\\5 Jagged array.csproj|h:\\c#\\udemy\\section7 collections\\5 jagged array\\5 jagged array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A71F9F9-84F5-4DE7-B50C-59C01C837326}|5 Jagged array\\5 Jagged array.csproj|solutionrelative:5 jagged array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\C#\\udemy\\section7 collections\\5 Jagged array\\5 Jagged array\\Program.cs",
+              "RelativeDocumentMoniker": "5 Jagged array\\Program.cs",
+              "ToolTip": "H:\\C#\\udemy\\section7 collections\\5 Jagged array\\5 Jagged array\\Program.cs",
+              "RelativeToolTip": "5 Jagged array\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:20:05.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
