@@ -1,0 +1,14 @@
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\section7 collections\9 array to hashtable\9 array to hashtable\bin\Debug\net8.0\9 array to hashtable.exe
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\section7 collections\9 array to hashtable\9 array to hashtable\bin\Debug\net8.0\9 array to hashtable.deps.json
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\section7 collections\9 array to hashtable\9 array to hashtable\bin\Debug\net8.0\9 array to hashtable.runtimeconfig.json
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\section7 collections\9 array to hashtable\9 array to hashtable\bin\Debug\net8.0\9 array to hashtable.dll
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\section7 collections\9 array to hashtable\9 array to hashtable\bin\Debug\net8.0\9 array to hashtable.pdb
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\section7 collections\9 array to hashtable\9 array to hashtable\obj\Debug\net8.0\9 array to hashtable.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\section7 collections\9 array to hashtable\9 array to hashtable\obj\Debug\net8.0\9 array to hashtable.AssemblyInfoInputs.cache
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\section7 collections\9 array to hashtable\9 array to hashtable\obj\Debug\net8.0\9 array to hashtable.AssemblyInfo.cs
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\section7 collections\9 array to hashtable\9 array to hashtable\obj\Debug\net8.0\9 array to hashtable.csproj.CoreCompileInputs.cache
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\section7 collections\9 array to hashtable\9 array to hashtable\obj\Debug\net8.0\9 array to hashtable.dll
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\section7 collections\9 array to hashtable\9 array to hashtable\obj\Debug\net8.0\refint\9 array to hashtable.dll
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\section7 collections\9 array to hashtable\9 array to hashtable\obj\Debug\net8.0\9 array to hashtable.pdb
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\section7 collections\9 array to hashtable\9 array to hashtable\obj\Debug\net8.0\9 array to hashtable.genruntimeconfig.cache
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\section7 collections\9 array to hashtable\9 array to hashtable\obj\Debug\net8.0\ref\9 array to hashtable.dll
