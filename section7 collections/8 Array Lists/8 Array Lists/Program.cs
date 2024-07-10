@@ -43,10 +43,8 @@ namespace _8_Array_Lists
                 {
                     Console.WriteLine(obj);     //stringz asi len vzpis
                 }
-
             }
             Console.WriteLine(sum);
-
         }
     }
 }

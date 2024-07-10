@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\C#\\udemy\\section7 collections\\88 Lists\\",
+  "WorkspaceRootPath": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\section7 collections\\88 Lists\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96CA8A65-426E-4C6D-9525-7D91FFC2D6E9}|88 Lists\\88 Lists.csproj|h:\\c#\\udemy\\section7 collections\\88 lists\\88 lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{96CA8A65-426E-4C6D-9525-7D91FFC2D6E9}|88 Lists\\88 Lists.csproj|h:\\c#\\github_udemyc_sharp_masterclass\\section7 collections\\88 lists\\88 lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96CA8A65-426E-4C6D-9525-7D91FFC2D6E9}|88 Lists\\88 Lists.csproj|solutionrelative:88 lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "H:\\C#\\udemy\\section7 collections\\88 Lists\\88 Lists\\Program.cs",
+              "DocumentMoniker": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\section7 collections\\88 Lists\\88 Lists\\Program.cs",
               "RelativeDocumentMoniker": "88 Lists\\Program.cs",
-              "ToolTip": "H:\\C#\\udemy\\section7 collections\\88 Lists\\88 Lists\\Program.cs",
+              "ToolTip": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\section7 collections\\88 Lists\\88 Lists\\Program.cs",
               "RelativeToolTip": "88 Lists\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA9AAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowDsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-22T21:09:30.154Z",
               "EditorCaption": ""

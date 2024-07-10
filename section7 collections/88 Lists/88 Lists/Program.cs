@@ -5,8 +5,8 @@
         static void Main(string[] args)
         {
             // TODO: write your solution here
-                static List<int> Solution()
-                {
+            static List<int> Solution()
+            {
                 // TODO: write your solution here
                 //create a new list 
                 List<int> myList = new List<int>();
@@ -22,8 +22,8 @@
                 }
                 //return the list
                 return myList;
-                }
-                //do <  > ide typ  objectu ktory tam storujem
+            }
+            //do <  > ide typ  objectu ktory tam storujem
             List<Player> players = new List<Player>();
             Player player1 = new Player("chad");
             Player player2 = new Player("Steve");
@@ -38,18 +38,18 @@
             players.Add(new Player("Joseph"));
 
 
-            foreach (Player player in players) 
+            foreach (Player player in players)
             {
-                Console.WriteLine("{0} is added to game",player.username);
+                Console.WriteLine("{0} is added to game", player.username);
             }
         }
     }
     class Player
     {
         public String username;
-        public Player(String username) 
+        public Player(String username)
         {
-        this.username= username;
+            this.username = username;
         }
 
         public override string ToString()
@@ -57,5 +57,4 @@
             return username;
         }
     }
-
 }

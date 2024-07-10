@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\C#\\udemy\\section7 collections\\88 Lists\\88 Lists\\88 Lists.csproj": {}
+    "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\section7 collections\\88 Lists\\88 Lists\\88 Lists.csproj": {}
   },
   "projects": {
-    "H:\\C#\\udemy\\section7 collections\\88 Lists\\88 Lists\\88 Lists.csproj": {
+    "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\section7 collections\\88 Lists\\88 Lists\\88 Lists.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\C#\\udemy\\section7 collections\\88 Lists\\88 Lists\\88 Lists.csproj",
+        "projectUniqueName": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\section7 collections\\88 Lists\\88 Lists\\88 Lists.csproj",
         "projectName": "88 Lists",
-        "projectPath": "H:\\C#\\udemy\\section7 collections\\88 Lists\\88 Lists\\88 Lists.csproj",
+        "projectPath": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\section7 collections\\88 Lists\\88 Lists\\88 Lists.csproj",
         "packagesPath": "C:\\Users\\mierk\\.nuget\\packages\\",
-        "outputPath": "H:\\C#\\udemy\\section7 collections\\88 Lists\\88 Lists\\obj\\",
+        "outputPath": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\section7 collections\\88 Lists\\88 Lists\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

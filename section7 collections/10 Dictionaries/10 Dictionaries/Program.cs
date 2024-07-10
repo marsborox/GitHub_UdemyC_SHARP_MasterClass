@@ -19,6 +19,7 @@
                 {2,"two"},
                 {3,"three"}
             };
+            //add to dictionary
             Dictionary<string, Employee> employeesDirectory = new Dictionary<string, Employee>();
             foreach (Employee emp in employees)
             {
@@ -32,7 +33,7 @@
             }
             else { Console.WriteLine("Does not exist"); }
 
-            
+            //this will return dictionary entry / a object
             string input = "CEO";
             Employee result = null;
             if (employeesDirectory.TryGetValue(input, out result))
@@ -43,6 +44,7 @@
             {
                 Console.WriteLine("Does not exist");
             }
+
             for (int i = 0; i < employeesDirectory.Count; i++)
             {
                 //using ElementAt(i) to return the key-value pair stored at index i
