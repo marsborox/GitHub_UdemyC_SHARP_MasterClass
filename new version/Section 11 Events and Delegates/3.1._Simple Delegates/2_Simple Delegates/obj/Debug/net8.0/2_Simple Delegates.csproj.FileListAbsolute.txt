@@ -1,0 +1,15 @@
+H:\C#\GitHub_DesignPrinciples\Creational Patterns\Builder Pattern\2_Simple Delegates\2_Simple Delegates\bin\Debug\net8.0\2_Simple Delegates.exe
+H:\C#\GitHub_DesignPrinciples\Creational Patterns\Builder Pattern\2_Simple Delegates\2_Simple Delegates\bin\Debug\net8.0\2_Simple Delegates.deps.json
+H:\C#\GitHub_DesignPrinciples\Creational Patterns\Builder Pattern\2_Simple Delegates\2_Simple Delegates\bin\Debug\net8.0\2_Simple Delegates.runtimeconfig.json
+H:\C#\GitHub_DesignPrinciples\Creational Patterns\Builder Pattern\2_Simple Delegates\2_Simple Delegates\bin\Debug\net8.0\2_Simple Delegates.dll
+H:\C#\GitHub_DesignPrinciples\Creational Patterns\Builder Pattern\2_Simple Delegates\2_Simple Delegates\bin\Debug\net8.0\2_Simple Delegates.pdb
+H:\C#\GitHub_DesignPrinciples\Creational Patterns\Builder Pattern\2_Simple Delegates\2_Simple Delegates\obj\Debug\net8.0\2_Simple Delegates.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\GitHub_DesignPrinciples\Creational Patterns\Builder Pattern\2_Simple Delegates\2_Simple Delegates\obj\Debug\net8.0\2_Simple Delegates.AssemblyInfoInputs.cache
+H:\C#\GitHub_DesignPrinciples\Creational Patterns\Builder Pattern\2_Simple Delegates\2_Simple Delegates\obj\Debug\net8.0\2_Simple Delegates.AssemblyInfo.cs
+H:\C#\GitHub_DesignPrinciples\Creational Patterns\Builder Pattern\2_Simple Delegates\2_Simple Delegates\obj\Debug\net8.0\2_Simple Delegates.csproj.CoreCompileInputs.cache
+H:\C#\GitHub_DesignPrinciples\Creational Patterns\Builder Pattern\2_Simple Delegates\2_Simple Delegates\obj\Debug\net8.0\2_Simple Delegates.sourcelink.json
+H:\C#\GitHub_DesignPrinciples\Creational Patterns\Builder Pattern\2_Simple Delegates\2_Simple Delegates\obj\Debug\net8.0\2_Simple Delegates.dll
+H:\C#\GitHub_DesignPrinciples\Creational Patterns\Builder Pattern\2_Simple Delegates\2_Simple Delegates\obj\Debug\net8.0\refint\2_Simple Delegates.dll
+H:\C#\GitHub_DesignPrinciples\Creational Patterns\Builder Pattern\2_Simple Delegates\2_Simple Delegates\obj\Debug\net8.0\2_Simple Delegates.pdb
+H:\C#\GitHub_DesignPrinciples\Creational Patterns\Builder Pattern\2_Simple Delegates\2_Simple Delegates\obj\Debug\net8.0\2_Simple Delegates.genruntimeconfig.cache
+H:\C#\GitHub_DesignPrinciples\Creational Patterns\Builder Pattern\2_Simple Delegates\2_Simple Delegates\obj\Debug\net8.0\ref\2_Simple Delegates.dll

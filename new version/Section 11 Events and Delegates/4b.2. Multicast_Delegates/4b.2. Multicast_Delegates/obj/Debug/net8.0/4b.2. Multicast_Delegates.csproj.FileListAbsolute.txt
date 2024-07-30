@@ -1,0 +1,15 @@
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.2. Multicast_Delegates\4b.2. Multicast_Delegates\bin\Debug\net8.0\4b.2. Multicast_Delegates.exe
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.2. Multicast_Delegates\4b.2. Multicast_Delegates\bin\Debug\net8.0\4b.2. Multicast_Delegates.deps.json
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.2. Multicast_Delegates\4b.2. Multicast_Delegates\bin\Debug\net8.0\4b.2. Multicast_Delegates.runtimeconfig.json
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.2. Multicast_Delegates\4b.2. Multicast_Delegates\bin\Debug\net8.0\4b.2. Multicast_Delegates.dll
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.2. Multicast_Delegates\4b.2. Multicast_Delegates\bin\Debug\net8.0\4b.2. Multicast_Delegates.pdb
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.2. Multicast_Delegates\4b.2. Multicast_Delegates\obj\Debug\net8.0\4b.2. Multicast_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.2. Multicast_Delegates\4b.2. Multicast_Delegates\obj\Debug\net8.0\4b.2. Multicast_Delegates.AssemblyInfoInputs.cache
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.2. Multicast_Delegates\4b.2. Multicast_Delegates\obj\Debug\net8.0\4b.2. Multicast_Delegates.AssemblyInfo.cs
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.2. Multicast_Delegates\4b.2. Multicast_Delegates\obj\Debug\net8.0\4b.2. Multicast_Delegates.csproj.CoreCompileInputs.cache
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.2. Multicast_Delegates\4b.2. Multicast_Delegates\obj\Debug\net8.0\4b.2. Multicast_Delegates.sourcelink.json
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.2. Multicast_Delegates\4b.2. Multicast_Delegates\obj\Debug\net8.0\4b.2. Multicast_Delegates.dll
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.2. Multicast_Delegates\4b.2. Multicast_Delegates\obj\Debug\net8.0\refint\4b.2. Multicast_Delegates.dll
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.2. Multicast_Delegates\4b.2. Multicast_Delegates\obj\Debug\net8.0\4b.2. Multicast_Delegates.pdb
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.2. Multicast_Delegates\4b.2. Multicast_Delegates\obj\Debug\net8.0\4b.2. Multicast_Delegates.genruntimeconfig.cache
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.2. Multicast_Delegates\4b.2. Multicast_Delegates\obj\Debug\net8.0\ref\4b.2. Multicast_Delegates.dll
