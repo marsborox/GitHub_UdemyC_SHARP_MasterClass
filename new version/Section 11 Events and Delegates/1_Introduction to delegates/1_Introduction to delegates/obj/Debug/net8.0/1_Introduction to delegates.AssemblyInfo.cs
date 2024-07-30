@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1_Introduction to delegates")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b6367337f025fde83eb5debba1d0f65bbf0ae45")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e3f519b9a73f60a9e151fb6199b04a637a4440c")]
 [assembly: System.Reflection.AssemblyProductAttribute("1_Introduction to delegates")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1_Introduction to delegates")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
