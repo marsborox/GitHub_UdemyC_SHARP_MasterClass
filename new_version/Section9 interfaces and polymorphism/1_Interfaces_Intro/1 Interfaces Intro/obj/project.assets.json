@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\new version\\Section9 interfaces and polymorphism\\1 Interfaces Intro\\1 Interfaces Intro\\1 Interfaces Intro.csproj",
+      "projectUniqueName": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\new_version\\Section9 interfaces and polymorphism\\1_Interfaces_Intro\\1 Interfaces Intro\\1 Interfaces Intro.csproj",
       "projectName": "1 Interfaces Intro",
-      "projectPath": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\new version\\Section9 interfaces and polymorphism\\1 Interfaces Intro\\1 Interfaces Intro\\1 Interfaces Intro.csproj",
+      "projectPath": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\new_version\\Section9 interfaces and polymorphism\\1_Interfaces_Intro\\1 Interfaces Intro\\1 Interfaces Intro.csproj",
       "packagesPath": "C:\\Users\\mierk\\.nuget\\packages\\",
-      "outputPath": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\new version\\Section9 interfaces and polymorphism\\1 Interfaces Intro\\1 Interfaces Intro\\obj\\",
+      "outputPath": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\new_version\\Section9 interfaces and polymorphism\\1_Interfaces_Intro\\1 Interfaces Intro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
