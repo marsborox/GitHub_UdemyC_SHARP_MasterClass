@@ -1,0 +1,15 @@
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.5.EventsDelegates Example\4b.5.EventsDelegates Example\bin\Debug\net8.0\4b.5.EventsDelegates Example.exe
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.5.EventsDelegates Example\4b.5.EventsDelegates Example\bin\Debug\net8.0\4b.5.EventsDelegates Example.deps.json
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.5.EventsDelegates Example\4b.5.EventsDelegates Example\bin\Debug\net8.0\4b.5.EventsDelegates Example.runtimeconfig.json
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.5.EventsDelegates Example\4b.5.EventsDelegates Example\bin\Debug\net8.0\4b.5.EventsDelegates Example.dll
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.5.EventsDelegates Example\4b.5.EventsDelegates Example\bin\Debug\net8.0\4b.5.EventsDelegates Example.pdb
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.5.EventsDelegates Example\4b.5.EventsDelegates Example\obj\Debug\net8.0\4b.5.EventsDelegates Example.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.5.EventsDelegates Example\4b.5.EventsDelegates Example\obj\Debug\net8.0\4b.5.EventsDelegates Example.AssemblyInfoInputs.cache
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.5.EventsDelegates Example\4b.5.EventsDelegates Example\obj\Debug\net8.0\4b.5.EventsDelegates Example.AssemblyInfo.cs
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.5.EventsDelegates Example\4b.5.EventsDelegates Example\obj\Debug\net8.0\4b.5.EventsDelegates Example.csproj.CoreCompileInputs.cache
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.5.EventsDelegates Example\4b.5.EventsDelegates Example\obj\Debug\net8.0\4b.5.EventsDelegates Example.sourcelink.json
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.5.EventsDelegates Example\4b.5.EventsDelegates Example\obj\Debug\net8.0\4b.5.EventsDelegates Example.dll
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.5.EventsDelegates Example\4b.5.EventsDelegates Example\obj\Debug\net8.0\refint\4b.5.EventsDelegates Example.dll
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.5.EventsDelegates Example\4b.5.EventsDelegates Example\obj\Debug\net8.0\4b.5.EventsDelegates Example.pdb
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.5.EventsDelegates Example\4b.5.EventsDelegates Example\obj\Debug\net8.0\4b.5.EventsDelegates Example.genruntimeconfig.cache
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section 11 Events and Delegates\4b.5.EventsDelegates Example\4b.5.EventsDelegates Example\obj\Debug\net8.0\ref\4b.5.EventsDelegates Example.dll

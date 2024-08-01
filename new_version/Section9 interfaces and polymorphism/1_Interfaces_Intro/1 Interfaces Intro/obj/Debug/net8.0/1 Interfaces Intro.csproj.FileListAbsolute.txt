@@ -1,0 +1,15 @@
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section9 interfaces and polymorphism\1 Interfaces Intro\1 Interfaces Intro\bin\Debug\net8.0\1 Interfaces Intro.exe
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section9 interfaces and polymorphism\1 Interfaces Intro\1 Interfaces Intro\bin\Debug\net8.0\1 Interfaces Intro.deps.json
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section9 interfaces and polymorphism\1 Interfaces Intro\1 Interfaces Intro\bin\Debug\net8.0\1 Interfaces Intro.runtimeconfig.json
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section9 interfaces and polymorphism\1 Interfaces Intro\1 Interfaces Intro\bin\Debug\net8.0\1 Interfaces Intro.dll
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section9 interfaces and polymorphism\1 Interfaces Intro\1 Interfaces Intro\bin\Debug\net8.0\1 Interfaces Intro.pdb
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section9 interfaces and polymorphism\1 Interfaces Intro\1 Interfaces Intro\obj\Debug\net8.0\1 Interfaces Intro.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section9 interfaces and polymorphism\1 Interfaces Intro\1 Interfaces Intro\obj\Debug\net8.0\1 Interfaces Intro.AssemblyInfoInputs.cache
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section9 interfaces and polymorphism\1 Interfaces Intro\1 Interfaces Intro\obj\Debug\net8.0\1 Interfaces Intro.AssemblyInfo.cs
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section9 interfaces and polymorphism\1 Interfaces Intro\1 Interfaces Intro\obj\Debug\net8.0\1 Interfaces Intro.csproj.CoreCompileInputs.cache
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section9 interfaces and polymorphism\1 Interfaces Intro\1 Interfaces Intro\obj\Debug\net8.0\1 Interfaces Intro.sourcelink.json
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section9 interfaces and polymorphism\1 Interfaces Intro\1 Interfaces Intro\obj\Debug\net8.0\1 Interfaces Intro.dll
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section9 interfaces and polymorphism\1 Interfaces Intro\1 Interfaces Intro\obj\Debug\net8.0\refint\1 Interfaces Intro.dll
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section9 interfaces and polymorphism\1 Interfaces Intro\1 Interfaces Intro\obj\Debug\net8.0\1 Interfaces Intro.pdb
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section9 interfaces and polymorphism\1 Interfaces Intro\1 Interfaces Intro\obj\Debug\net8.0\1 Interfaces Intro.genruntimeconfig.cache
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new version\Section9 interfaces and polymorphism\1 Interfaces Intro\1 Interfaces Intro\obj\Debug\net8.0\ref\1 Interfaces Intro.dll
