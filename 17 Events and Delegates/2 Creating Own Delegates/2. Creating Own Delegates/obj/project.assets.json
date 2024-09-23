@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\C#\\udemy c#\\17 Events and Delegates\\2 Creating Own Delegates\\2. Creating Own Delegates\\2. Creating Own Delegates.csproj",
+      "projectUniqueName": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\17 Events and Delegates\\2 Creating Own Delegates\\2. Creating Own Delegates\\2. Creating Own Delegates.csproj",
       "projectName": "2. Creating Own Delegates",
-      "projectPath": "H:\\C#\\udemy c#\\17 Events and Delegates\\2 Creating Own Delegates\\2. Creating Own Delegates\\2. Creating Own Delegates.csproj",
+      "projectPath": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\17 Events and Delegates\\2 Creating Own Delegates\\2. Creating Own Delegates\\2. Creating Own Delegates.csproj",
       "packagesPath": "C:\\Users\\mierk\\.nuget\\packages\\",
-      "outputPath": "H:\\C#\\udemy c#\\17 Events and Delegates\\2 Creating Own Delegates\\2. Creating Own Delegates\\obj\\",
+      "outputPath": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\17 Events and Delegates\\2 Creating Own Delegates\\2. Creating Own Delegates\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

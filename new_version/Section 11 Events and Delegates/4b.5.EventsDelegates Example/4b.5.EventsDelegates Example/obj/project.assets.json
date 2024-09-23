@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\new version\\Section 11 Events and Delegates\\4b.5.EventsDelegates Example\\4b.5.EventsDelegates Example\\4b.5.EventsDelegates Example.csproj",
+      "projectUniqueName": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\new_version\\Section 11 Events and Delegates\\4b.5.EventsDelegates Example\\4b.5.EventsDelegates Example\\4b.5.EventsDelegates Example.csproj",
       "projectName": "4b.5.EventsDelegates Example",
-      "projectPath": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\new version\\Section 11 Events and Delegates\\4b.5.EventsDelegates Example\\4b.5.EventsDelegates Example\\4b.5.EventsDelegates Example.csproj",
+      "projectPath": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\new_version\\Section 11 Events and Delegates\\4b.5.EventsDelegates Example\\4b.5.EventsDelegates Example\\4b.5.EventsDelegates Example.csproj",
       "packagesPath": "C:\\Users\\mierk\\.nuget\\packages\\",
-      "outputPath": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\new version\\Section 11 Events and Delegates\\4b.5.EventsDelegates Example\\4b.5.EventsDelegates Example\\obj\\",
+      "outputPath": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\new_version\\Section 11 Events and Delegates\\4b.5.EventsDelegates Example\\4b.5.EventsDelegates Example\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

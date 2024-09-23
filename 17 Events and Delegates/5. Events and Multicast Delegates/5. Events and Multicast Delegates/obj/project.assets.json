@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\C#\\udemy c#\\17 Events and Delegates\\5. Events and Multicast Delegates\\5. Events and Multicast Delegates\\5. Events and Multicast Delegates.csproj",
+      "projectUniqueName": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\17 Events and Delegates\\5. Events and Multicast Delegates\\5. Events and Multicast Delegates\\5. Events and Multicast Delegates.csproj",
       "projectName": "5. Events and Multicast Delegates",
-      "projectPath": "H:\\C#\\udemy c#\\17 Events and Delegates\\5. Events and Multicast Delegates\\5. Events and Multicast Delegates\\5. Events and Multicast Delegates.csproj",
+      "projectPath": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\17 Events and Delegates\\5. Events and Multicast Delegates\\5. Events and Multicast Delegates\\5. Events and Multicast Delegates.csproj",
       "packagesPath": "C:\\Users\\mierk\\.nuget\\packages\\",
-      "outputPath": "H:\\C#\\udemy c#\\17 Events and Delegates\\5. Events and Multicast Delegates\\5. Events and Multicast Delegates\\obj\\",
+      "outputPath": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\17 Events and Delegates\\5. Events and Multicast Delegates\\5. Events and Multicast Delegates\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

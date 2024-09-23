@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2. Creating Own Delegates")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+288945937e6617db18f51d0b2e9cfedeb5e2d222")]
 [assembly: System.Reflection.AssemblyProductAttribute("2. Creating Own Delegates")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2. Creating Own Delegates")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
