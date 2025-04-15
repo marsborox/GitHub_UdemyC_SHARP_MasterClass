@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\new_version\\Section9 interfaces and polymorphism\\3 PolymorphicInterfaces\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56F3869D-BFC4-4C1F-B24D-4B0CD3117DE2}|ConsoleApp1\\ConsoleApp1.csproj|h:\\c#\\github_udemyc_sharp_masterclass\\new_version\\section9 interfaces and polymorphism\\3 polymorphicinterfaces\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56F3869D-BFC4-4C1F-B24D-4B0CD3117DE2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\new_version\\Section9 interfaces and polymorphism\\3 PolymorphicInterfaces\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\new_version\\Section9 interfaces and polymorphism\\3 PolymorphicInterfaces\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAmwCwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T16:07:00.674Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

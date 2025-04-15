@@ -1,0 +1,15 @@
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new_version\Section9 interfaces and polymorphism\3 PolymorphicInterfaces\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new_version\Section9 interfaces and polymorphism\3 PolymorphicInterfaces\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new_version\Section9 interfaces and polymorphism\3 PolymorphicInterfaces\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new_version\Section9 interfaces and polymorphism\3 PolymorphicInterfaces\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new_version\Section9 interfaces and polymorphism\3 PolymorphicInterfaces\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new_version\Section9 interfaces and polymorphism\3 PolymorphicInterfaces\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new_version\Section9 interfaces and polymorphism\3 PolymorphicInterfaces\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new_version\Section9 interfaces and polymorphism\3 PolymorphicInterfaces\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new_version\Section9 interfaces and polymorphism\3 PolymorphicInterfaces\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new_version\Section9 interfaces and polymorphism\3 PolymorphicInterfaces\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new_version\Section9 interfaces and polymorphism\3 PolymorphicInterfaces\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new_version\Section9 interfaces and polymorphism\3 PolymorphicInterfaces\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new_version\Section9 interfaces and polymorphism\3 PolymorphicInterfaces\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new_version\Section9 interfaces and polymorphism\3 PolymorphicInterfaces\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+H:\C#\GitHub_UdemyC_SHARP_MasterClass\new_version\Section9 interfaces and polymorphism\3 PolymorphicInterfaces\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
