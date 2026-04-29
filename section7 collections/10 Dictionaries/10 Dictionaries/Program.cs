@@ -26,8 +26,8 @@
                 employeesDirectory.Add(emp.Role, emp); // co ma pridat do dictionaire
             }
             string key = "CEO";
-            if (employeesDirectory.ContainsKey(key))
-            {
+            if (employeesDirectory.ContainsKey(key))//ak oclleciton obsahuje (key)
+            {//vrat employeeho 
                 Employee empl = employeesDirectory[key]; //podla coho ma spravit output
                 Console.WriteLine("Employee name: {0}, Role: {1}, Salary: {2}", empl.Name, empl.Role, empl.Salary);
             }

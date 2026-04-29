@@ -14,20 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,7 +24,7 @@
               "RelativeDocumentMoniker": "10 Dictionaries\\Program.cs",
               "ToolTip": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\section7 collections\\10 Dictionaries\\10 Dictionaries\\Program.cs",
               "RelativeToolTip": "10 Dictionaries\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBIAAAAaAAAAAAAAAA==",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wBcAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-24T17:34:59.527Z",
               "EditorCaption": ""
