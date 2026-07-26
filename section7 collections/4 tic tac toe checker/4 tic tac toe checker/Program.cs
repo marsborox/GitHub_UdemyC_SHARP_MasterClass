@@ -11,7 +11,7 @@
         };
 
 
-       /* public class TicTacToe
+        public class TicTacToe
         {
             public static bool Checker(string[,] board)
             {
@@ -29,28 +29,27 @@
                 if (board[0, 2] == board[1, 1] && board[1, 1] == board[2, 0])
                     return true;
                 return false;
-            }*/
+            }
 
-            static void Main(string[] args) 
+            static void Main(string[] args)
             {
                 SetField();
-            Console.ReadKey();
+                Console.ReadKey();
             }
 
             public static void SetField()
             {
                 Console.WriteLine("   |   |   ");
-                Console.WriteLine(" {0} | {1} | {2} ", playField[0,0], playField[0,1], playField[0,2]);
+                Console.WriteLine(" {0} | {1} | {2} ", playField[0, 0], playField[0, 1], playField[0, 2]);
                 Console.WriteLine("___|___|___");
                 Console.WriteLine("   |   |   ");
-                Console.WriteLine(" {0} | {1} | {2} ", playField[1,0], playField[1,1], playField[1,2]);
+                Console.WriteLine(" {0} | {1} | {2} ", playField[1, 0], playField[1, 1], playField[1, 2]);
                 Console.WriteLine("___|___|___");
                 Console.WriteLine("   |   |   ");
-                Console.WriteLine(" {0} | {1} | {2} ", playField[2,0], playField[2,1], playField[2,2]);
+                Console.WriteLine(" {0} | {1} | {2} ", playField[2, 0], playField[2, 1], playField[2, 2]);
                 Console.WriteLine("   |   |   ");
             }
-
-        
+        }
         
     }
 }

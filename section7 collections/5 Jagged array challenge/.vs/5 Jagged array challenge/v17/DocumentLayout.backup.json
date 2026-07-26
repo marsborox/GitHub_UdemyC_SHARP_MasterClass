@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\C#\\udemy\\section7 collections\\5 Jagged array challenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB5A19A5-CA43-40A0-A982-C1E37895B664}|5 Jagged array challenge\\5 Jagged array challenge.csproj|h:\\c#\\udemy\\section7 collections\\5 jagged array challenge\\5 jagged array challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB5A19A5-CA43-40A0-A982-C1E37895B664}|5 Jagged array challenge\\5 Jagged array challenge.csproj|solutionrelative:5 jagged array challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\C#\\udemy\\section7 collections\\5 Jagged array challenge\\5 Jagged array challenge\\Program.cs",
+              "RelativeDocumentMoniker": "5 Jagged array challenge\\Program.cs",
+              "ToolTip": "H:\\C#\\udemy\\section7 collections\\5 Jagged array challenge\\5 Jagged array challenge\\Program.cs",
+              "RelativeToolTip": "5 Jagged array challenge\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T19:57:02.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

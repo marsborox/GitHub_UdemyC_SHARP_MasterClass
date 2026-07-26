@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "H:\\C#\\udemy\\section7 collections\\7 params find lowest\\",
+  "WorkspaceRootPath": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\section7 collections\\7 params find lowest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E71EE64-D079-488D-8893-25876B637552}|7 params find lowest\\7 params find lowest.csproj|h:\\c#\\udemy\\section7 collections\\7 params find lowest\\7 params find lowest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E71EE64-D079-488D-8893-25876B637552}|7 params find lowest\\7 params find lowest.csproj|h:\\c#\\github_udemyc_sharp_masterclass\\section7 collections\\7 params find lowest\\7 params find lowest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E71EE64-D079-488D-8893-25876B637552}|7 params find lowest\\7 params find lowest.csproj|solutionrelative:7 params find lowest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "H:\\C#\\udemy\\section7 collections\\7 params find lowest\\7 params find lowest\\Program.cs",
+              "DocumentMoniker": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\section7 collections\\7 params find lowest\\7 params find lowest\\Program.cs",
               "RelativeDocumentMoniker": "7 params find lowest\\Program.cs",
-              "ToolTip": "H:\\C#\\udemy\\section7 collections\\7 params find lowest\\7 params find lowest\\Program.cs",
+              "ToolTip": "H:\\C#\\GitHub_UdemyC_SHARP_MasterClass\\section7 collections\\7 params find lowest\\7 params find lowest\\Program.cs",
               "RelativeToolTip": "7 params find lowest\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-22T18:29:46.177Z",
               "EditorCaption": ""

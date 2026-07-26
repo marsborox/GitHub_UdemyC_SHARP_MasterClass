@@ -20,5 +20,16 @@
             }
             return min;
         }
+        public static double Average(params int[] numbers)
+        {
+            int total = 0;
+            int count = 0;
+            foreach (int number in numbers)
+            { 
+                total += number;
+                count++;
+            }
+            return (double)total / count;
+        }
     }
 }

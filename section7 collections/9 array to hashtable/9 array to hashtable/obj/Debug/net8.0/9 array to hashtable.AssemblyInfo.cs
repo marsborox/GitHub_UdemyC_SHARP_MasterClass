@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("9 array to hashtable")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e45a5add6af335b783148752c065deb9c7e012e0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4abc337cb7718d78883c4701a8eb3c3f42531ae9")]
 [assembly: System.Reflection.AssemblyProductAttribute("9 array to hashtable")]
 [assembly: System.Reflection.AssemblyTitleAttribute("9 array to hashtable")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

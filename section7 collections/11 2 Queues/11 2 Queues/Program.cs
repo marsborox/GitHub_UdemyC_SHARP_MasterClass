@@ -38,8 +38,6 @@
                 currentOrder.ProcessOrder();
 
             }
-
-
         }
         static Order[] ReceiveOrdersFromBranch1()
         {

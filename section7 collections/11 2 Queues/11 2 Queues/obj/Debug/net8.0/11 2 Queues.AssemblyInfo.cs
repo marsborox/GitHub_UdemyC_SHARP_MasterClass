@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("11 2 Queues")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4abc337cb7718d78883c4701a8eb3c3f42531ae9")]
 [assembly: System.Reflection.AssemblyProductAttribute("11 2 Queues")]
 [assembly: System.Reflection.AssemblyTitleAttribute("11 2 Queues")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
